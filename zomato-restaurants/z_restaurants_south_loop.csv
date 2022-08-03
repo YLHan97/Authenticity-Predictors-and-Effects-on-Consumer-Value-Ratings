@@ -1,0 +1,32 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Giordano's,Giordano's,https://www.zomato.com/chicago/giordanos-pizza-south-loop,3.8,"['Italian', 'Pizza']",17.5,39,1340 South Michigan Avenue 60605
+Tapas Valencia,Tapas Valencia,https://www.zomato.com/chicago/tapas-valencia-south-loop,4.0,"['Spanish', 'Tapas']",20.0,51,1530 South State Street 60605
+Flo & Santos,Flo & Santos,https://www.zomato.com/chicago/flo-santos-south-loop,4.3,"['Pizza', 'Pub Food']",22.5,66,"1310 S Wabash Avenue, Chicago 60605"
+La Cantina Grill,La Cantina Grill,https://www.zomato.com/chicago/la-cantina-grill-south-loop,4.0,['Mexican'],20.0,68,1911 S Michigan Avenue 60616
+Chicago Waffles,Waffles,https://www.zomato.com/chicago/waffles-south-loop,3.4,['American'],20.0,44,"1400 S Michigan Avenue, Chicago 60605"
+Stan's Donuts,Stan's Donuts,https://www.zomato.com/chicago/stans-donuts-south-loop,3.5,"['Bakery', 'Desserts', 'Donuts']",5.0,4,"26 E Roosevelt Road, South Loop 60605"
+Cafe Bionda,Cafe Bionda,https://www.zomato.com/chicago/cafe-bionda-south-loop,3.9,"['American', 'Italian']",32.5,38,1924 S State Street 60616
+The Chicago Firehouse Restaurant,The Chicago Firehouse Restaurant,https://www.zomato.com/chicago/the-chicago-firehouse-restaurant-south-loop,4.1,"['American', 'Seafood', 'Steak']",35.0,95,1401 South Michigan Avenue 60605
+Acadia,Acadia,https://www.zomato.com/chicago/acadia-south-loop,3.9,['New American'],60.0,34,1639 South Wabash 60616
+The Burger Point,The Burger Point,https://www.zomato.com/chicago/the-burger-point-south-loop,3.4,"['American', 'Burger']",15.0,20,"1900 S State Street, Chicago 60616"
+Tommy Guns Garage,The Burger Point,https://www.zomato.com/chicago/tommy-guns-garage-south-loop,3.4,"['American', 'Burger']",15.0,20,"1900 S State Street, Chicago 60616"
+Harold's Chicken Shack Downtown,Harold's Chicken Shack,https://www.zomato.com/chicago/harolds-chicken-shack-1-south-loop,3.1,"['Fast Food', 'American']",12.5,42,636 S Wabash Avenue 60605
+Chicago Oyster House Prime Seafood & Steaks,Chicago Oyster House,https://www.zomato.com/chicago/chicago-oyster-house-south-loop,3.8,"['Seafood', 'Sushi']",32.5,13,1933 South Indiana Avenue 60616
+Kroll's South Loop,Krolls South Loop,https://www.zomato.com/chicago/krolls-south-loop-south-loop,3.9,"['American', 'Burger']",22.5,35,1736 South Michigan Avenue 60616
+Corner Bakery Cafe,Corner Bakery Cafe,https://www.zomato.com/chicago/corner-bakery-cafe-5-loop,3.7,"['Sandwich', 'Bakery']",15.0,5,"188 W Washington Street, Chicago 60602"
+Pizano's Pizza and Pasta,Pizano's Pizza & Pasta,https://www.zomato.com/chicago/pizanos-pizza-pasta-loop,4.0,"['Italian', 'Pizza']",22.5,224,"61 E Madison Street, Chicago 60603"
+South Coast Sushi Bar,South Coast,https://www.zomato.com/chicago/south-coast-south-loop,4.2,"['Japanese', 'Sushi']",22.5,61,1700 S. Michigan Avenue 60616
+Chef Luciano Kitchen & Chicken,Chef Luciano,https://www.zomato.com/chicago/chef-luciano-south-loop,3.5,"['American', 'Italian']",22.5,13,49 E. Cermak Road 60616
+Kurah Mediterranean,Kurah Mediterranean,https://www.zomato.com/chicago/kurah-mediterranean-south-loop,3.5,['Mediterranean'],20.0,11,"1355 S Michigan Avenue, Chicago 60605"
+Spoke & Bird,Spoke & Bird,https://www.zomato.com/chicago/spoke-bird-south-loop,3.1,['American'],12.5,4,"205 E 18th Street, Chicago 60616"
+Pita Heaven Restaurant,Pita Heaven,https://www.zomato.com/chicago/pita-heaven-south-loop,3.8,['Mediterranean'],17.5,14,"1250 S Michigan Avenue, Chicago 60605"
+Nepal house - Fine Nepali cuisine,Nepal House,https://www.zomato.com/chicago/nepal-house-south-loop,3.0,"['Indian', 'Nepalese']",20.0,18,"1301 S. Michigan Avenue, Chicago 60605"
+Kai Sushi,Kai Sushi,https://www.zomato.com/chicago/kai-sushi-south-loop,3.8,"['Japanese', 'Seafood', 'Sushi']",37.5,13,"1255 S. State Street, Chicago 60605"
+Weather Mark Tavern,Weather Mark Tavern,https://www.zomato.com/chicago/weather-mark-tavern-south-loop,3.8,['American'],17.5,23,1503 S. Michigan Avenue 60605
+Reggies,Reggies,https://www.zomato.com/chicago/reggies-south-loop,3.6,['American'],25.0,15,2105 S. State Street 60616
+Little Branch Cafe,Little Branch Cafe,https://www.zomato.com/chicago/little-branch-cafe-south-loop,4.0,"['Cafe', 'Ice Cream', 'Desserts']",15.0,53,"1251 S Prairie Avenue, Chicago 60605"
+Soundings at Shedd Aquarium,Soundings Café,https://www.zomato.com/chicago/soundings-caf%C3%A9-south-loop,2.8,"['Cafe', 'Sandwich']",20.0,5,"1200 S. Lake Shore Drive, Chicago 60605"
+Wabash Tap,Wabash Tap,https://www.zomato.com/chicago/wabash-tap-south-loop,3.6,"['Burger', 'Bar Food']",15.0,9,1233 S. Wabash Avenue 60605
+White Castle,White Castle,https://www.zomato.com/chicago/white-castle-south-loop,2.6,"['Burger', 'Fast Food']",10.0,10,"2140 S. Wabash Avenue, 60616"
+Harold's Chicken Shacks,Harold's Chicken Shack,https://www.zomato.com/chicago/harolds-chicken-shack-1-south-loop,3.1,"['Fast Food', 'American']",12.5,42,636 S Wabash Avenue 60605
+Bubble Net Food Court,Soundings Café,https://www.zomato.com/chicago/soundings-caf%C3%A9-south-loop,2.8,"['Cafe', 'Sandwich']",20.0,5,"1200 S. Lake Shore Drive, Chicago 60605"

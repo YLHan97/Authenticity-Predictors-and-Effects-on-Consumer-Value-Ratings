@@ -1,0 +1,38 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Gather,Gather,https://www.zomato.com/chicago/gather-lincoln-square,3.9,['American'],27.5,18,4539 N Lincoln Avenue 60625
+Goosefoot,Goosefoot,https://www.zomato.com/chicago/goosefoot-lincoln-square,3.9,['New American'],67.5,25,2656 W. Lawrence Avenue 60625
+Bistro Campagne,Bistro Campagne,https://www.zomato.com/chicago/bistro-campagne-lincoln-square,4.3,['French'],30.0,142,4518 N Lincoln Avenue 60625
+Glenn's Diner,Glenn's Diner,https://www.zomato.com/chicago/glenns-diner-lincoln-square,4.3,"['American', 'Seafood']",20.0,184,1820 W Montrose Avenue 60613
+Cafe Selmarie,Cafe Selmarie,https://www.zomato.com/chicago/cafe-selmarie-lincoln-square,4.4,"['American', 'Cafe', 'Bakery']",25.0,123,4729 N Lincoln Avenue 60625
+Luella's Southern Kitchen,Luella's Southern Kitchen,https://www.zomato.com/chicago/luellas-southern-kitchen-lincoln-square,3.6,"['American', 'Southern']",37.5,7,4609 N. Lincoln Avenue 60625
+Gene's Rooftop Beer and Wine Garden,Gene's Sausage Shop & Delicatessen,https://www.zomato.com/chicago/genes-sausage-shop-delicatessen-lincoln-square,3.9,"['Bar Food', 'German']",12.5,17,"4750 N. Lincoln Avenue, Chicago 60625"
+Jibek Jolu Chicago,Jibek Jolu,https://www.zomato.com/chicago/jibek-jolu-lincoln-square,3.2,['Eastern European'],15.0,10,"5047 N. Lincoln Avenue, Chicago 60625"
+Famous Dutch Pannenkoeken Huis,Pannenkoeken Cafe,https://www.zomato.com/chicago/pannenkoeken-cafe-lincoln-square,3.8,"['Cafe', 'European']",12.5,41,4757 North Western Avenue 60659
+Himmel's,Himmel's,https://www.zomato.com/chicago/himmels-lincoln-square,2.9,['German'],17.5,6,2251 West Lawrence Avenue 60625
+Garcia's Restaurant,Garcia's Restaurant,https://www.zomato.com/chicago/garcias-restaurant-lincoln-square,3.8,['Mexican'],17.5,105,4760 N Lincoln Ave 60625
+Isla Pilipina,Isla Pilipina,https://www.zomato.com/chicago/isla-pilipina-lincoln-square,3.6,['Filipino'],22.5,5,"2501 W. Lawrence Avenue, Unit D 60625"
+Rockwell's Neighborhood Grill,Rockwell's Neighborhood Grill,https://www.zomato.com/chicago/rockwells-neighborhood-grill-lincoln-square,3.9,"['American', 'Burger', 'Tex-Mex']",20.0,39,4632 N. Rockwell Street 60625
+Elizabeth,Elizabeth Restaurant,https://www.zomato.com/chicago/elizabeth-restaurant-lincoln-square,3.6,"['American', 'Tapas']",75.0,13,4835 N. Western Avenue Unit D 60625
+Daily Bar & Grill,Daily Bar & Grill,https://www.zomato.com/chicago/daily-bar-grill-lincoln-square,4.1,"['American', 'Bar Food']",20.0,53,"4560 North Lincoln Avenue, Lincoln Square 60625"
+Hub's Restaurant,Hub's Restaurant,https://www.zomato.com/chicago/hubs-restaurant-west-ridge,3.2,"['American', 'Greek', 'Mediterranean']",17.5,11,"5540 N. Lincoln Avenue, Chicago 60625"
+I Monelli,I Monelli Trattoria Pizzeria,https://www.zomato.com/chicago/i-monelli-trattoria-pizzeria-lincoln-square,3.7,"['Italian', 'Pizza']",27.5,20,5019 North Western Avenue 60625
+Shanghai Inn,Shanghai Inn,https://www.zomato.com/chicago/shanghai-inn-lincoln-square,3.5,['Chinese'],17.5,5,"4723 N. Damen Avenue, Chicago 60625"
+Barba Yianni Grecian Taverna,Barba Yianni Grecian Taverna,https://www.zomato.com/chicago/barba-yianni-grecian-taverna-lincoln-square,3.8,"['Greek', 'Mediterranean']",15.0,31,"4761 N. Lincoln Avenue, Chicago 60625"
+Caro Mio Italian Ristorante,Caro Mio,https://www.zomato.com/chicago/caro-mio-uptown,4.2,['Italian'],30.0,55,"1827 W. Wilson Avenue, Chicago 60640"
+Pizza Art Cafe,Pizza Art Cafe,https://www.zomato.com/chicago/pizza-art-cafe-lincoln-square,3.8,"['Italian', 'Mediterranean', 'Pizza']",17.5,43,4658 North Rockwell Street 60625
+Restaurant Sarajevo,Restaurant Sarajevo,https://www.zomato.com/chicago/restaurant-sarajevo-lincoln-square,3.3,['Eastern European'],15.0,7,"2701 W. Lawrence Avenue, Chicago 60625"
+Jimmy's Pizza Cafe,Jimmy's Pizza Cafe,https://www.zomato.com/chicago/jimmys-pizza-cafe-chicago,3.7,['Pizza'],15.0,13,"5159 N. Lincoln Avenue, Chicago 60625"
+Aroy Thai,Aroy Thai,https://www.zomato.com/chicago/aroy-thai-lincoln-square,3.9,"['Thai', 'Asian']",17.5,33,"4656 N. Damen Avenue, Chicago 60625"
+Beans n Bagels,Beans & Bagels,https://www.zomato.com/chicago/beans-bagels-1-lincoln-square,3.6,"['Coffee and Tea', 'Sandwich']",10.0,14,"2601 W. Leland Avenue, Chicago 60625"
+Taco in a Bag,Taco in a Bag,https://www.zomato.com/chicago/taco-in-a-bag-lincoln-square,3.1,"['New Mexican', 'Fast Food']",15.0,5,"4603 N. Lincoln Avenue, Chicago 60625"
+Yes Thai,Yes Thai,https://www.zomato.com/chicago/yes-thai-north-center,3.8,"['Asian', 'Thai']",20.0,25,"5211 N. Damen Avenue, Chicago 60625"
+The Red Lion Lincoln Square,The Red Lion Lincoln Square,https://www.zomato.com/chicago/the-red-lion-lincoln-square-lincoln-square,3.5,"['Pub Food', 'British']",37.5,8,4749 N. Rockwell Avenue 60625
+Baker Miller,Baker Miller,https://www.zomato.com/chicago/baker-miller-lincoln-square,3.1,"['Bakery', 'Desserts']",10.0,11,"4655 N Lincoln Avenue, Chicago 60625"
+Garcia's Restaurant,Garcia's Restaurant,https://www.zomato.com/chicago/garcias-restaurant-lincoln-square,3.8,['Mexican'],17.5,105,4760 N Lincoln Ave 60625
+Essence of India,Essence of India,https://www.zomato.com/chicago/essence-of-india-lincoln-square,3.5,['Indian'],17.5,31,4601 N. Lincoln Avenue 60625
+Mekatos Colombian Bakery,Mekato's Colombian Bakery,https://www.zomato.com/chicago/mekatos-colombian-bakery-west-ridge,3.3,"['Cafe', 'Colombian', 'Bakery']",12.5,7,"5422 N. Lincoln Avenue, Chicago 60625"
+Paprika,Paprika,https://www.zomato.com/chicago/paprika-lincoln-square,3.6,['Indian'],20.0,10,"2547 W. Lawrence Avenue, Chicago 60625"
+Grafton Pub,The Grafton Irish Pub,https://www.zomato.com/chicago/the-grafton-irish-pub-lincoln-square,4.1,"['American', 'Bar Food']",20.0,44,4530 N Lincoln Avenue 60625
+Atlantic Bar & Grill,Atlantic Bar & Grill,https://www.zomato.com/chicago/atlantic-bar-grill-lincoln-square,2.8,"['Pub Food', 'Irish', 'American']",17.5,8,"5062 N. Lincoln Avenue, Chicago 60625"
+Budacki's Drive In,Budacki's Drive-in,https://www.zomato.com/chicago/budackis-drive-in-lincoln-square,3.9,"['Burger', 'Fast Food']",10.0,25,"4739 N Damen Avenue, Chicago 60625"
+Spoon Thai,Spoon Thai,https://www.zomato.com/chicago/spoon-thai-lincoln-square,4.1,"['Asian', 'Thai']",17.5,45,4608 N. Western Avenue 60625

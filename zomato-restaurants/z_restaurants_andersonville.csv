@@ -1,0 +1,19 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Calo Pizzeria Restaurant & Lounge,Calo Ristorante,https://www.zomato.com/chicago/calo-ristorante-edgewater,4.3,"['Italian', 'Pizza']",30.0,190,"5343 N Clark Street, Chicago 60640"
+Lady Gregory's Bar and Restaurant,Lady Gregory's,https://www.zomato.com/chicago/lady-gregorys-edgewater,4.2,"['British', 'American']",20.0,51,"5260 N Clark Street, Chicago 60640"
+Big Jones,Big Jones,https://www.zomato.com/chicago/big-jones-edgewater,4.3,['Southern'],32.5,134,"5347 North. Clark Street., Andersonville 60640"
+Big Jones,Big Jones,https://www.zomato.com/chicago/big-jones-edgewater,4.3,['Southern'],32.5,134,"5347 North. Clark Street., Andersonville 60640"
+Reza's Restaurant,Reza's Restaurant,https://www.zomato.com/chicago/rezas-restaurant-edgewater,3.9,"['Mediterranean', 'Iranian']",25.0,141,"5255 N. Clark Street, Chicago 60640"
+Svea Restaurant,Svea Restaurant,https://www.zomato.com/chicago/svea-restaurant-edgewater,3.9,"['Swedish', 'American']",12.5,40,"5236 N Clark Street, Chicago 60640"
+George's Ice Cream & Sweets,George's Ice Cream and Sweets,https://www.zomato.com/chicago/georges-ice-cream-and-sweets-edgewater,3.9,"['Cafe', 'Ice Cream', 'Desserts']",7.5,35,"5306 N. Clark Street, Chicago 60640"
+A Taste of Heaven,A Taste of Heaven,https://www.zomato.com/chicago/a-taste-of-heaven-edgewater,4.3,"['Cafe', 'Sandwich']",17.5,105,5401 N Clark Street 60640
+Hamburger Mary's,Hamburger Mary's,https://www.zomato.com/chicago/hamburger-marys-edgewater,4.1,['American'],22.5,104,"5400 N. Clark Street, Chicago 60640"
+Vincent,Vincent,https://www.zomato.com/chicago/vincent-edgewater,3.6,"['New American', 'European']",32.5,18,"1475 W. Balmoral Avenue, Chicago 60640"
+Jin Ju,Jin Ju,https://www.zomato.com/chicago/jin-ju-edgewater,4.3,"['Asian', 'Korean']",25.0,82,"5203 N. Clark Street, Chicago 60640"
+Kopi A Traveler's Cafe,Kopi,https://www.zomato.com/chicago/kopi-edgewater,3.9,"['Cafe', 'Sandwich']",15.0,101,"5317 N. Clark Street, Chicago 60640"
+Tanoshii,Tanoshii Sushi,https://www.zomato.com/chicago/tanoshii-sushi-edgewater,3.7,"['Sushi', 'Japanese']",22.5,44,5547 N. Clark Street 60640
+Andies Restaurant,Andie's,https://www.zomato.com/chicago/andies-uptown,3.5,"['Mediterranean', 'Middle Eastern']",25.0,22,1467 W Montrose Avenue 60613
+Kanela Breakfast Club,Kanela Breakfast Club,https://www.zomato.com/chicago/kanela-breakfast-club-wicker-park,3.4,['American'],20.0,9,"1408 N. Milwaukee Avenue, Chicago 60622"
+Middle East Bakery & Grocery Cafe,Middle Eastern Bakery,https://www.zomato.com/chicago/middle-eastern-bakery-andersonville,3.6,"['Bakery', 'Middle Eastern']",5.0,18,"1512 W Foster Avenue, Chicago 60640"
+Ranalli's of Andersonville,Ranalli's of Andersonville,https://www.zomato.com/chicago/ranallis-of-andersonville-edgewater,3.9,"['Italian', 'Pizza']",25.0,31,1512 West Berwyn Avenue 60640
+Polygon Cafe,Polygon Cafe,https://www.zomato.com/chicago/polygon-cafe-edgewater,3.7,"['Thai', 'Sushi']",22.5,7,"5204 N. Clark Street, Chicago 60640"

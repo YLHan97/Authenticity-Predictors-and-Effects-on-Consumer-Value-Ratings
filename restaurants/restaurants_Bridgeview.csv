@@ -1,0 +1,12 @@
+restaurant_name,link,price_class,price_range,category,michelin,ranking,avg_rating,food_rating,service_rating,value_rating,atmosphere_rating,review_count,rate5_count,rate4_count,rate3_count,rate2_count,rate1_count
+Al Bawadi Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35712-d2243156-Reviews-Al_Bawadi_Restaurant-Bridgeview_Illinois.html,2.5,[],"['Lebanese', 'Middle Eastern', 'Egyptian']",False,1,4,4.5,4.0,4.0,4.0,120,68,24,7,5,11
+The Patio,https://www.tripadvisor.com/Restaurant_Review-g35712-d3598986-Reviews-The_Patio-Bridgeview_Illinois.html,2.5,[],"['Quick Bites', 'American', 'Bar']",False,1,4,NA,NA,NA,NA,37,14,18,4,1,0
+Mama Luigi's Restaurant and Banquets,https://www.tripadvisor.com/Restaurant_Review-g35712-d821565-Reviews-Mama_Luigi_s_Restaurant_and_Banquets-Bridgeview_Illinois.html,2.5,"[10, 25]","['Italian', 'Vegetarian Friendly']",False,1,4,4.0,4.0,4.0,4.0,55,28,16,5,4,2
+White Castle,https://www.tripadvisor.com/Restaurant_Review-g35712-d4976557-Reviews-White_Castle-Bridgeview_Illinois.html,1,[],"['Quick Bites', 'Fast Food']",False,2,4,NA,NA,NA,NA,14,7,6,1,0,0
+Lindy's Chili Gerties ice cream of Bridgeview,https://www.tripadvisor.com/Restaurant_Review-g35712-d430495-Reviews-Lindy_s_Chili_Gerties_ice_cream_of_Bridgeview-Bridgeview_Illinois.html,1,"[7, 20]",['American'],False,2,4,NA,NA,NA,NA,19,13,4,0,1,1
+Ing's Palace,https://www.tripadvisor.com/Restaurant_Review-g35712-d430516-Reviews-Ing_s_Palace-Bridgeview_Illinois.html,1,[],"['Chinese', 'Asian', 'Cantonese']",False,1,4,4.5,4.5,4.5,4.5,14,8,5,0,0,1
+Southern Belles,https://www.tripadvisor.com/Restaurant_Review-g35712-d430448-Reviews-Southern_Belles-Bridgeview_Illinois.html,2.5,[],[],False,6,4,4.5,4.5,4.5,4.5,17,11,3,0,0,3
+View,https://www.tripadvisor.com/Restaurant_Review-g35712-d430513-Reviews-View-Bridgeview_Illinois.html,2.5,[],"['American', 'Greek']",False,3,4,4.0,4.0,4.0,4.0,29,14,8,1,0,6
+The Nile Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35712-d430698-Reviews-The_Nile_Restaurant-Bridgeview_Illinois.html,0,[],[],False,4,4,NA,NA,NA,NA,10,5,3,1,0,1
+IHOP,https://www.tripadvisor.com/Restaurant_Review-g35712-d4929790-Reviews-IHOP-Bridgeview_Illinois.html,2.5,[],[],False,10,3,NA,NA,NA,NA,17,7,4,0,2,4
+Taqueria Los Comales,https://www.tripadvisor.com/Restaurant_Review-g35712-d430431-Reviews-Taqueria_Los_Comales-Bridgeview_Illinois.html,1,[],"['Mexican', 'Latin', 'Spanish']",False,13,3,3.5,4.0,3.5,3.5,19,7,6,3,0,3

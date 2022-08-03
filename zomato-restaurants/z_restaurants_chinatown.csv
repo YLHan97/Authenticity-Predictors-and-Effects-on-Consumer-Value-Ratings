@@ -1,0 +1,28 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+MingHin Cuisine,MingHin Cuisine,https://www.zomato.com/chicago/minghin-cuisine-chinatown,4.4,"['Chinese', 'Dim Sum', 'Seafood']",22.5,70,"2168 S Archer Avenue, Chicago 60616"
+Joy Yee Noodles,Joy Yee's Noodles,https://www.zomato.com/chicago/joy-yees-noodles-chinatown,4.2,"['Chinese', 'Thai']",17.5,167,"2139 S China Place, Chicago 60616"
+Triple Crown Restaurant,Triple Crown Restaurant,https://www.zomato.com/chicago/triple-crown-restaurant-chinatown,4.2,"['Chinese', 'Dim Sum', 'Seafood']",25.0,69,2217 South Wentworth Avenue 60616
+Emperor's Choice,Emperor's Choice,https://www.zomato.com/chicago/emperors-choice-chinatown,3.9,"['Asian', 'Chinese']",20.0,35,"2238 S Wentworth Avenue, Chicago 60616"
+Strings Ramen Shop,Strings Ramen Shop,https://www.zomato.com/chicago/strings-ramen-shop-chinatown,3.2,"['Asian', 'Chinese', 'Ramen']",22.5,13,"2141 S. Archer Avenue, Chicago 60616"
+Phoenix Restaurant,Phoenix,https://www.zomato.com/chicago/phoenix-chinatown,4.4,"['Asian', 'Chinese', 'Dim Sum']",25.0,126,2131 S Archer Avenue 60616
+Chiu Quon Bakery,Chiu Quon Bakery,https://www.zomato.com/chicago/chiu-quon-bakery-chinatown,3.6,"['Desserts', 'Dim Sum']",5.0,17,"2253 S Wentworth Ave, Chicago 60616"
+Go 4 Food,Go 4 Food,https://www.zomato.com/chicago/go-4-food-chinatown,3.6,['Chinese'],20.0,11,212 W. 23rd Street 60616
+Lao Sze Chuan,Lao Sze Chuan,https://www.zomato.com/chicago/lao-sze-chuan-chinatown,4.3,"['Asian', 'Chinese']",17.5,204,2172 S Archer Avenue 60616
+Ken Kee Restaurant,Ken-Kee Restaurant,https://www.zomato.com/chicago/ken-kee-restaurant-chinatown,3.3,"['Asian', 'Chinese']",17.5,20,"2129 S China Place, Chicago 60616"
+Lawrence's Fish & Shrimp,Lawrences Fisheries,https://www.zomato.com/chicago/lawrences-fisheries-chinatown,4.0,['Seafood'],15.0,50,2120 South Canal Street 60616
+Chi Cafe,Chi Cafe,https://www.zomato.com/chicago/chi-cafe-chinatown,3.8,"['Asian', 'Chinese']",17.5,34,2160-A S Archer Avenue 60616
+Cai,Cai,https://www.zomato.com/chicago/cai-chinatown,3.7,"['Chinese', 'Dim Sum']",25.0,23,2100 S Archer Avenue 60616
+Joy Yee Noodle,Joy Yee's Noodles,https://www.zomato.com/chicago/joy-yees-noodles-chinatown,4.2,"['Chinese', 'Thai']",17.5,167,"2139 S China Place, Chicago 60616"
+Hing Kee Restaurant,Hing Kee,https://www.zomato.com/chicago/hing-kee-chinatown,3.8,"['Asian', 'Chinese', 'Sushi']",15.0,24,2140 S. Archer Avenue 60616
+BBQ King House,B.B.Q. King,https://www.zomato.com/chicago/b-b-q-king-chinatown,3.7,"['Chinese', 'BBQ']",20.0,15,"2148 S. Archer Avenue, Chicago 60616"
+Saint's Alp Teahouse,Saint's Alp Teahouse,https://www.zomato.com/chicago/saints-alp-teahouse-chinatown,3.9,"['Asian', 'Chinese']",20.0,25,"2157 S. China Place, Chinatown, Chicago 60616"
+Three Happiness Restaurant,Three Happiness,https://www.zomato.com/chicago/three-happiness-chinatown,4.2,"['Asian', 'Chinese']",10.0,72,"209 W. Cermak Road, Chicago 60616"
+Saint Anna Bakery & Cafe,Saint Anna Bakery & Cafe,https://www.zomato.com/chicago/saint-anna-bakery-cafe-chinatown,3.4,"['Asian', 'Chinese', 'Bakery']",7.5,18,"2158 S. Archer Avenue, Chicago 60616"
+Ahjoomah's Apron,Ahjoomah's Apron,https://www.zomato.com/chicago/ahjoomahs-apron-chinatown,3.7,['Korean'],20.0,8,"218 W. Cermak Road, Chinatown, Chicago 60616"
+Seven Treasures Cantonese Restaurant,Seven Treasures Cantonese Restaurant,https://www.zomato.com/chicago/seven-treasures-cantonese-restaurant-chinatown,3.2,"['Asian', 'Chinese']",15.0,24,2312 South Wentworth Avenue 60616
+House Of Fortune,House of Fortune,https://www.zomato.com/chicago/house-of-fortune-chinatown,3.7,"['Asian', 'Chinese']",20.0,14,"2407 S Wentworth Avenue, Chinatown, Chicago 60616"
+Evergreen Family Restaurant,Evergreen Restaurant,https://www.zomato.com/chicago/evergreen-restaurant-chinatown,3.5,['Chinese'],20.0,11,"2411 S. Wentworth Avenue, Chinatown, Chicago 60616"
+China Cafe,China Cafe,https://www.zomato.com/chicago/china-cafe-chinatown,3.1,"['Asian', 'Chinese']",22.5,6,"2300 S. Wentworth Avenue, Chinatown, Chicago 60616"
+Cafe Hoang,Cafe Hoang,https://www.zomato.com/chicago/cafe-hoang-chinatown,3.7,"['Vietnamese', 'Thai']",12.5,24,"232 W Cermak Road, Chicago 60616"
+Lao Beijing,Lao Beijing,https://www.zomato.com/chicago/lao-beijing-chinatown,2.8,['Chinese'],20.0,27,"2138 S. Archer Avenue, Chinatown, Chicago 60616"
+Lee Wing Wah,Lee Wing Wah,https://www.zomato.com/chicago/lee-wing-wah-chinatown,3.8,"['Asian', 'Chinese']",20.0,19,"2147 S. China Place, Chinatown, Chicago 60616"

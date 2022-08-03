@@ -1,0 +1,6 @@
+restaurant_name,link,price_class,price_range,category,michelin,ranking,avg_rating,food_rating,service_rating,value_rating,atmosphere_rating,review_count,rate5_count,rate4_count,rate3_count,rate2_count,rate1_count
+Jimmy's Red Hots,https://www.tripadvisor.com/Restaurant_Review-g35805-d4195572-Reviews-Jimmy_s_Red_Hots-Chicago_Illinois.html,1,[],"['Quick Bites', 'American', 'Fast Food']",False,152,4,4.5,4.5,5.0,5.0,34,23,8,1,1,0
+Cemitas Puebla,https://www.tripadvisor.com/Restaurant_Review-g35805-d1119860-Reviews-Cemitas_Puebla-Chicago_Illinois.html,1,"[5, 10]","['Mexican', 'Spanish', 'Vegetarian Friendly']",False,65,4,4.0,4.0,4.5,4.5,51,21,20,4,1,1
+Feed,https://www.tripadvisor.com/Restaurant_Review-g35805-d611567-Reviews-Feed-Chicago_Illinois.html,1,"[6, 14]",['American'],False,740,4,4.5,4.5,4.5,4.5,37,12,19,1,2,0
+Roeser's Bakery,https://www.tripadvisor.com/Restaurant_Review-g35805-d859115-Reviews-Roeser_s_Bakery-Chicago_Illinois.html,1,[],['American'],False,1,5,NA,NA,NA,NA,10,10,0,0,0,0
+La Palma Puerto Rican Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35805-d429158-Reviews-La_Palma_Puerto_Rican_Restaurant-Chicago_Illinois.html,1,[],['Latin'],False,134,4,5.0,4.0,4.5,4.5,15,8,4,1,0,2

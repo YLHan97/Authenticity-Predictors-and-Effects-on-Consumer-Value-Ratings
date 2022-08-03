@@ -1,0 +1,16 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Dusek's Board & Beer,Dusek's,https://www.zomato.com/chicago/duseks-pilsen,3.9,"['New American', 'Bar Food']",45.0,40,"1227 W 18th Street, Chicago 60608"
+Honky Tonk BBQ,Honky Tonk BBQ,https://www.zomato.com/chicago/honky-tonk-bbq-pilsen,4.1,"['American', 'BBQ']",20.0,100,1800 South Racine Avenue 60608
+Canton Regio,Canton Regio,https://www.zomato.com/chicago/canton-regio-pilsen,3.5,['Mexican'],15.0,5,"1510 West 18th Street, Chicago 60608"
+Cafe Jumping Bean,Cafe Jumping Bean,https://www.zomato.com/chicago/cafe-jumping-bean-pilsen,3.9,"['Cafe', 'Sandwich']",7.5,32,1439 W 18th Street 60608
+Don Pedro Carnitas,Carnitas Don Pedro,https://www.zomato.com/chicago/carnitas-don-pedro-pilsen,3.9,['Mexican'],12.5,19,1113 W 18th Street 60608
+Pl-zen,Pl-zeñ,https://www.zomato.com/chicago/pl-ze%C3%B1-1-pilsen,3.3,"['American', 'Burger']",22.5,15,"1519 W. 18th Street, Chicago 60608"
+Taqueria El Milagro,Taqueria El Milagro,https://www.zomato.com/chicago/taqueria-el-milagro-pilsen,3.2,['Mexican'],12.5,17,1927 S Blue Island Avenue 60608
+Simone's,Simone's,https://www.zomato.com/chicago/simones-pilsen,3.8,"['American', 'Sandwich', 'Pizza']",17.5,46,"960 W. 18th Street, Chicago 60608"
+Los Comales of 18th Street,Taqueria Los Comales,https://www.zomato.com/chicago/taqueria-los-comales-pilsen,3.8,['Mexican'],12.5,19,1544 W 18th Street 60608
+Pollo Express,Pollo Express,https://www.zomato.com/chicago/pollo-express-pilsen,3.4,['Mexican'],10.0,4,"1315 W. 18th Street, Chicago 60608"
+Taqueria Casa Del Pueblo,La Casa Del Pueblo,https://www.zomato.com/chicago/la-casa-del-pueblo-pilsen,2.9,['Mexican'],12.5,14,"1834 S Blue Island Avenue, Chicago 60608"
+May St. Cafe,May St. Cafe,https://www.zomato.com/chicago/may-st-cafe-pilsen,3.4,['Latin American'],30.0,25,"1146 W Cermak Road, Chicago 60608"
+DeColores,Decolores,https://www.zomato.com/chicago/decolores-pilsen,3.8,['Mexican'],25.0,22,1626 S. Halsted Street 60608
+Hony Tonk BBQ,Honky Tonk BBQ,https://www.zomato.com/chicago/honky-tonk-bbq-pilsen,4.1,"['American', 'BBQ']",20.0,100,1800 South Racine Avenue 60608
+La Vaca Margarita Bar,La Vaca Margarita Bar,https://www.zomato.com/chicago/la-vaca-margarita-bar-pilsen,2.9,['Mexican'],20.0,7,1160 W 18th Street 60608

@@ -1,0 +1,25 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Chez Joel,Chez Joel,https://www.zomato.com/chicago/chez-joel-university-village,3.9,['French'],40.0,33,1119 W. Taylor Street 60607
+The Rosebud,The Rosebud,https://www.zomato.com/chicago/the-rosebud-university-village,4.1,['Italian'],37.5,83,"1500 W. Taylor Street, Chicago 60607"
+Tufanos Vernon Park Tap,Tufano's Vernon Park Tap,https://www.zomato.com/chicago/tufanos-vernon-park-tap-university-village,4.2,['Italian'],20.0,119,"1073 W Vernon Park Plaza, Chicago 60607"
+Sweet Maple Cafe,Sweet Maple Cafe,https://www.zomato.com/chicago/sweet-maple-cafe-university-village,4.4,['American'],15.0,108,"1339 W. Taylor Street, Chicago 60607"
+Mario's Italian Lemonade,Mario's Italian Lemonade,https://www.zomato.com/chicago/marios-italian-lemonade-university-village,4.0,['Desserts'],2.5,42,1068 W. Taylor Street 60607
+Tuscany on Taylor,Tuscany,https://www.zomato.com/chicago/tuscany-restaurant-wheeling,3.9,"['Italian', 'Pizza']",35.0,38,"550 S. Milwaukee Avenue, Wheeling 60090"
+Stax Cafe,Stax Cafe,https://www.zomato.com/chicago/stax-cafe-university-village,3.9,['American'],15.0,42,"1401 W. Taylor Street, Chicago 60607"
+Jim's Original Hot Dog,Jim's Original,https://www.zomato.com/chicago/jims-original-university-village,4.2,"['Burger', 'Sandwich']",7.5,59,"1250 S Union Avenue, Chicago 60607"
+Al's  1 Italian Beef,Al's Italian Beef,https://www.zomato.com/chicago/als-beef-lakeview,3.7,"['Fast Food', 'Italian', 'Sandwich']",10.0,10,3420 N. Clark Street 60657
+Pompei,Pompei Little Italy Streeterville,https://www.zomato.com/chicago/pompei-little-italy-streeterville-streeterville,3.3,"['Italian', 'Pizza']",5.0,25,"212 East Ohio Street, Near North Side, River East 60611"
+Hashbrowns,Hashbrowns,https://www.zomato.com/chicago/hashbrowns-university-village,3.6,['American'],17.5,38,"731 W Maxwell Street, Chicago 60607"
+Chilango,Chilango,https://www.zomato.com/chicago/chilango-university-village,3.1,"['Latin American', 'Mexican']",10.0,9,"1437 W Taylor Street, Chicago 60607"
+La Taberna Tapas on Halsted,La Taberna Tapas,https://www.zomato.com/chicago/la-taberna-tapas-university-village,3.1,['Tapas'],32.5,9,1301 S. Halsted Street 60607
+Lotus Cafe & Banh Mi Sandwiches,Lotus Cafe & Bánh Mì Sandwiches,https://www.zomato.com/chicago/lotus-cafe-b%C3%A1nh-m%C3%AC-sandwiches-university-village,3.8,"['Sandwich', 'Vietnamese']",12.5,9,719 W. Maxwell Street 60607
+Hawkeye's Bar & Grill,Hawkeye's Bar & Grill,https://www.zomato.com/chicago/hawkeyes-bar-grill-university-village,3.8,"['American', 'Italian']",12.5,29,1458 W. Taylor Street 60607
+Conte Di Savoia,Conte Di Savoia,https://www.zomato.com/chicago/conte-di-savoia-university-village,3.9,"['Desserts', 'Italian', 'Sandwich']",12.5,39,"1438 W Taylor Street, Chicago 60607"
+Busy Burger,Chicago's Busy Burger,https://www.zomato.com/chicago/chicagos-busy-burger-university-village,3.4,['Burger'],12.5,22,"1120 W Taylor Street, Chicago 60607"
+Fontano Foods,Fontano's Subs,https://www.zomato.com/chicago/fontano-subs-university-village,3.7,"['Sandwich', 'Italian', 'Deli']",10.0,21,1058 W Polk Street 60607
+Yummy Thai,Yummy Thai,https://www.zomato.com/chicago/yummy-thai-university-village,3.8,['Thai'],10.0,32,"1418 W. Taylor Street, Chicago 60607"
+Ghareeb Nawaz UIC,Ghareeb Nawaz Express,https://www.zomato.com/chicago/ghareeb-nawaz-express-university-village,3.2,"['Indian', 'Pakistani']",12.5,12,"807 W Roosevelt Road, Chicago 60608"
+Golden Thai,Golden Thai,https://www.zomato.com/chicago/golden-thai-university-village,3.5,['Thai'],10.0,5,"1509 W. Taylor Street, Chicago 60607"
+Thai Bowl,Thai Bowl,https://www.zomato.com/chicago/thai-bowl-university-village,3.7,['Thai'],12.5,42,"1049 W. Taylor Street, Chicago 60607"
+De Pasada,De Pasada,https://www.zomato.com/chicago/de-pasada-university-village,3.6,"['Mexican', 'Seafood']",12.5,13,"1517 W Taylor Street, Chicago 60607"
+Kohan Japanese Restaurant,Kohan Japanese Restaurant,https://www.zomato.com/chicago/kohan-japanese-restaurant-university-village,3.6,"['Japanese', 'Sushi']",20.0,32,"730 W. Maxwell Street, University Village, Chicago 60607"

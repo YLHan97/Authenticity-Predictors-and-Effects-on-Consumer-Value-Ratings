@@ -1,0 +1,11 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Bryn Mawr Breakfast Club,Bryn Mawr Breakfast Club,https://www.zomato.com/chicago/bryn-mawr-breakfast-club-north-park,3.4,['American'],12.5,8,"3401 W. Bryn Mawr Avenue, Chicago 60659"
+Tre Kronor,Tre Kronor,https://www.zomato.com/chicago/tre-kronor-north-park,4.5,"['Scandinavian', 'Swedish']",27.5,115,"3258 W. Foster Avenue, Chicago 60625"
+Via Veneto Ristorante,Via Veneto Ristorante,https://www.zomato.com/chicago/via-veneto-ristorante-north-park,3.3,['Italian'],20.0,15,"6340 N. Lincoln Avenue, Chicago 60659"
+Hoanh Long Vietnamese & Chinese Restaurant,Hoanh Long,https://www.zomato.com/chicago/hoanh-long-north-park,3.9,['Vietnamese'],17.5,15,"6148 N. Lincoln Avenue, Chicago 60659"
+Martino's,Martinos Restaurant and Pizzeria,https://www.zomato.com/chicago/martinos-restaurant-and-pizzeria-north-park,3.8,"['Italian', 'Pizza']",17.5,6,3431 West Peterson Avenue 60659
+Charcoal Delights,Charcoal Delights,https://www.zomato.com/chicago/charcoal-delights-north-park,3.1,"['American', 'Greek']",10.0,14,"3139 W. Foster Avenue, North Park, Chicago 60625"
+Mee Mah,Mee Mah Chinese Cuisine,https://www.zomato.com/chicago/mee-mah-chinese-cuisine-north-park,3.6,['Chinese'],17.5,6,"4032 W. Peterson Avenue, Chicago 60646"
+Midori Japanese Restaurant,Midori Japanese Restaurant,https://www.zomato.com/chicago/midori-japanese-restaurant-north-park,2.9,"['Sushi', 'Japanese']",25.0,17,"3310 W Bryn Mawr Avenue, Chicago 60659"
+Little Quiapo Restaurant,Little Quiapo Restaurant,https://www.zomato.com/chicago/little-quiapo-restaurant-north-park,2.8,"['Asian', 'Filipino']",12.5,7,"6259 N. McCormick Avenue, Chicago 60659"
+May Flower,May Flower Chinese Restaurant,https://www.zomato.com/chicago/may-flower-chinese-restaurant-north-park,3.5,['Chinese'],10.0,9,"5240 N. Pulaski Road, North Park, Chicago 60630"

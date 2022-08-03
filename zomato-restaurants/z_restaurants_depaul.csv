@@ -1,0 +1,15 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Cafe Ba-Ba-Reeba!,Cafe Ba-Ba-Reeba!,https://www.zomato.com/chicago/cafe-ba-ba-reeba-1-lincoln-park,4.3,"['Spanish', 'Tapas']",27.5,766,"2024 North Halsted Street, Lincoln Park 60614"
+CHEZ MOI,Chez Moi,https://www.zomato.com/chicago/chez-moi-lincoln-park,3.9,['French'],42.5,12,2100 N Halsted Street 60614
+Sweet Mandy B's,Sweet Mandy B's,https://www.zomato.com/chicago/sweet-mandy-bs-lincoln-park,4.4,"['Desserts', 'Bakery']",10.0,149,1208 W. Webster Avenue 60614
+Athenian Room,Athenian Room,https://www.zomato.com/chicago/athenian-room-lincoln-park,4.5,['Greek'],22.5,125,807 West Webster Avenue 60614
+Range Restaurant,Range,https://www.zomato.com/chicago/range-lincoln-park,3.7,['New American'],25.0,16,1119 W Webster Avenue 60614
+Sai Cafe,Sai Cafe,https://www.zomato.com/chicago/sai-cafe-lincoln-park,4.1,"['Japanese', 'Sushi']",25.0,59,2010 North. Sheffield 60614
+Nookies Too,Nookies Too,https://www.zomato.com/chicago/nookies-too-lincoln-park,3.7,['American'],20.0,70,2114 N. Halsted Street 60614
+CornerStone Cafe,Corner Stone Cafe,https://www.zomato.com/chicago/corner-stone-cafe-bucktown,3.9,"['American', 'Sandwich', 'Burger']",15.0,37,"2753 N. Western Avenue, Chicago 60647"
+Macku Sushi,Macku Sushi,https://www.zomato.com/chicago/macku-sushi-lincoln-park,3.8,"['Japanese', 'Sushi']",27.5,31,2239 N Clybourn Avenue 60614
+Local Option,Local Option,https://www.zomato.com/chicago/local-option-lincoln-park,2.7,"['Sandwich', 'Southern', 'Mexican']",20.0,20,"1102 W. Webster Avenue, Chicago 60614"
+Dee's Restaurant,Dee's Chinese Sushi Lounge,https://www.zomato.com/chicago/dees-chinese-sushi-lounge-lincoln-park,3.9,"['Asian', 'Chinese', 'Sushi']",25.0,21,1114 W. Armitage Avenue 60614
+Le Pain Quotidien,Le Pain Quotidien,https://www.zomato.com/chicago/le-pain-quotidien-west-loop,3.6,"['Cafe', 'French']",15.0,12,135 North Clinton Street 60661
+Rock Wrap & Roll,Rock Wrap & Roll,https://www.zomato.com/chicago/rock-wrap-roll-lincoln-park,3.3,"['Sushi', 'Thai']",17.5,9,2187 N. Clybourn Avenue 60614
+Kincade's Bar & Grill,Kincade's Bar & Grill,https://www.zomato.com/chicago/kincades-bar-grill-lincoln-park,3.4,"['American', 'Bar Food']",15.0,4,"950 West Armitage Avenue, Lincoln Park 60614"

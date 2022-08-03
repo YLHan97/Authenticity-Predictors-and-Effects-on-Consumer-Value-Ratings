@@ -1,0 +1,112 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Green Street Smoked Meats,Green Street Smoked Meats,https://www.zomato.com/chicago/green-street-smoked-meats-west-loop,4.2,['BBQ'],32.5,45,"112 N Green Street, Chicago 60607"
+Monteverde,Monteverde,https://www.zomato.com/chicago/monteverde-west-loop,3.6,['Italian'],20.0,9,1020 W Madison Street 60607
+Avec,Avec,https://www.zomato.com/chicago/avec-west-loop,4.3,['Mediterranean'],37.5,409,"615 W Randolph Street, Chicago 60661"
+Oriole,Oriole,https://www.zomato.com/chicago/oriole-west-loop,3.9,"['Seafood', 'New American']",175.0,7,661 West Walnut Street 60661
+Momotaro,Momotaro,https://www.zomato.com/chicago/momotaro-west-loop,3.8,"['Japanese', 'Sushi']",32.5,24,820 West Lake Street 60607
+Swift & Sons,Swift & Sons,https://www.zomato.com/chicago/swift-sons-west-loop,3.6,"['Steak', 'American']",50.0,4,1000 West Fulton Market 60607
+Picollo Sogno,Piccolo Sogno,https://www.zomato.com/chicago/piccolo-sogno-river-west,4.4,['Italian'],45.0,145,464 North Halsted 60622
+Duck Duck Goat,Duck Duck Goat,https://www.zomato.com/chicago/duck-duck-goat-west-loop,3.6,"['Asian', 'Chinese']",NA,19,"857 West Fulton Market, West Loop 60607"
+Carnivale,Carnivale,https://www.zomato.com/chicago/carnivale-west-loop,4.2,"['Cuban', 'Mexican', 'Latin American']",40.0,377,"702 W Fulton Market, Chicago 60661"
+The Publican,The Publican,https://www.zomato.com/chicago/the-publican-west-loop,4.4,['American'],30.0,531,"837 W Fulton Market, Chicago 60607"
+Sepia,Sepia,https://www.zomato.com/chicago/sepia-west-loop,4.1,['American'],45.0,126,123 North Jefferson Street 60661
+Bar Siena,Bar Siena,https://www.zomato.com/chicago/bar-siena-west-loop,3.9,"['Italian', 'Pizza']",35.0,21,832 W Randolph Street 60607
+Leña Brava,Lena Brava,https://www.zomato.com/chicago/lena-brava-west-loop,3.6,"['Mexican', 'California']",35.0,6,900 W. Randolph Street 60607
+Athena Greek Restaurant,Athena,https://www.zomato.com/chicago/athena-greektown,3.9,"['Greek', 'Mediterranean']",27.5,74,"212 S Halsted Street, Chicago 60661"
+The Aviary,The Aviary,https://www.zomato.com/chicago/the-aviary-west-loop,4.5,['New American'],75.0,96,"953 W Fulton Market, Chicago 60607"
+Meli Cafe,Meli Cafe,https://www.zomato.com/chicago/meli-cafe-greektown,4.3,"['American', 'Healthy Food']",20.0,149,"301 S Halsted Street, Chicago 60661"
+Viaggio,Viaggio Ristorante and Lounge,https://www.zomato.com/chicago/viaggio-ristorante-and-lounge-west-loop,3.9,['Italian'],37.5,30,"1330 West Madison, Near West Side, West Loop 60607"
+Wishbone Restaurant,Wishbone,https://www.zomato.com/chicago/wishbone-west-loop,4.2,"['American', 'Southern']",20.0,138,1001 West Washington Boulevard 60607
+PICCOLO SOGNO DUE,Piccolo Sogno,https://www.zomato.com/chicago/piccolo-sogno-river-west,4.4,['Italian'],45.0,145,464 North Halsted 60622
+Publican Quality Meats,Publican Quality Meats,https://www.zomato.com/chicago/publican-quality-meats-west-loop,4.5,"['Sandwich', 'Deli']",22.5,60,825 W Fulton Market 60607
+Formento's,Formentos,https://www.zomato.com/chicago/formentos-west-loop,3.2,['Italian'],40.0,9,"925 West Randolph Street Chicago, IL 60607"
+La Sardine,La Sardine,https://www.zomato.com/chicago/la-sardine-west-loop,4.3,['French'],40.0,50,111 North Carpenter Street 60607
+Grange Hall Burger Bar,Grange Hall Burger Bar,https://www.zomato.com/chicago/grange-hall-burger-bar-west-loop,3.8,"['Burger', 'Desserts']",15.0,42,"844 West Randolph Street, Chicago 60607"
+Roister,Roister,https://www.zomato.com/chicago/roister-west-loop,3.9,['New American'],22.5,8,"951 W. Fulton Market, West Loop, Chicago 60607"
+Artopolis Bakery & Cafe,Artopolis,https://www.zomato.com/chicago/artopolis-greektown,4.2,"['Greek', 'Mediterranean']",15.0,119,"306 S Halsted Street, Chicago 60661"
+Haymarket Pub & Brewery,Haymarket Pub & Brewery,https://www.zomato.com/chicago/haymarket-pub-brewery-west-loop,4.2,['Pub Food'],20.0,78,"737 West Randolph Street, Near West Side, West Loop 60661"
+Santorini Restaurant,Santorini,https://www.zomato.com/chicago/santorini-greektown,4.2,"['Greek', 'Seafood']",25.0,52,"800 W Adams Street, Chicago 60607"
+Macello Cucina di Puglia,Macello,https://www.zomato.com/chicago/macello-west-loop,3.9,['Italian'],45.0,28,1235 West Lake Street 60607
+Sushi Dokku,Sushi Dokku,https://www.zomato.com/chicago/sushi-dokku-west-loop,3.5,['Sushi'],25.0,10,"823 W. Randolph Street, Chicago 60661"
+The Allis Chicago,The Allis,https://www.zomato.com/chicago/allis-lounge-west-loop,3.8,"['American', 'Sandwich']",15.0,13,"SoHo House Chicago, 113-125 N. Green Street 60607"
+Lou Malnati's Pizzeria,Lou Malnati's Pizzeria,https://www.zomato.com/chicago/lou-malnatis-pizzeria-west-loop,3.2,['Pizza'],20.0,9,"1235 W. Randolph Street, Chicago 60607"
+Ch Distillery,CH Distillery,https://www.zomato.com/chicago/ch-distillery-west-loop,3.4,['New American'],22.5,12,"564 W. Randolph Street, Chicago 60661"
+JP Grazianos,J.P. Graziano,https://www.zomato.com/chicago/j-p-graziano-west-loop,3.9,"['Italian', 'Sandwich']",12.5,32,901 West Randolph Street 60607
+City Winery Chicago,City Winery,https://www.zomato.com/chicago/city-winery-west-loop,4.0,"['Tapas', 'American']",45.0,43,"1200 West Randolph Street, West Loop 60607"
+Next Restaurant,Next,https://www.zomato.com/chicago/next-west-loop,4.2,['Tapas'],100.0,73,953 West Fulton Market 60607
+Cruz Blanca Brewery,Cruz Blanca,https://www.zomato.com/chicago/cruz-blanca-west-loop,3.5,['Mexican'],NA,5,900 W. Randolph Street 60607
+Palace Grill,Palace Grill,https://www.zomato.com/chicago/palace-grill-west-loop,3.6,"['American', 'Burger']",15.0,23,"1408 W. Madison Street, West Loop, Chicago 60607"
+Salero,Salero,https://www.zomato.com/chicago/salero-west-loop,3.7,['Spanish'],32.5,11,"621 W. Randolph Street, Chicago 60661"
+Yolk - West Loop,Yolk West Loop,https://www.zomato.com/chicago/yolk-west-loop-west-loop,3.2,['American'],17.5,16,500 West Madison Street 60661
+Nia,Nia Mediterranean,https://www.zomato.com/chicago/nia-mediterranean-west-loop,4.0,"['Mediterranean', 'Tapas']",27.5,50,"803 W. Randolph Street, Chicago 60607"
+D'Amato's Bakery,D'Amato's Bakery,https://www.zomato.com/chicago/damato-s-bakery-west-town,3.9,"['Fast Food', 'Bakery']",7.5,35,1124 W Grand Avenue 60622
+Forno Rosso Pizzeria Napoletana,Forno Rosso,https://www.zomato.com/chicago/forno-rosso-west-loop,3.7,['Italian'],27.5,4,1108 W. Randolph Street 60607
+Mart Anthony's Italian Restaurant,Mart Anthony's,https://www.zomato.com/chicago/mart-anthonys-west-loop,3.5,"['Italian', 'Pizza']",35.0,9,"1200 W. Hubbard Street, Chicago 60622"
+Nando's PERI-PERI CHIKEN,Nando's,https://www.zomato.com/chicago/nandos-peri-peri-west-loop,3.8,['Portuguese'],20.0,9,953 W. Randolph Street 60607
+Parlor Pizza Bar,Parlor Pizza Bar,https://www.zomato.com/chicago/parlor-pizza-bar-west-loop,3.7,"['American', 'Pizza']",25.0,31,108 North. Green Street 60607
+Saigon Sisters,Saigon Sisters,https://www.zomato.com/chicago/saigon-sisters-1-west-loop,4.0,['Vietnamese'],12.5,55,"567 W Lake Street, Chicago 60661"
+Kaiser Tiger,Kaiser Tiger,https://www.zomato.com/chicago/kaiser-tiger-west-loop,3.0,['American'],27.5,21,1415 W. Randolph Street 60607
+Nellcote,Nellcôte,https://www.zomato.com/chicago/nellc%C3%B4te-west-loop,3.9,"['American', 'French', 'Italian']",25.0,69,"833 W Randolph Street, Chicago 60607"
+South Branch,South Branch Tavern Grille,https://www.zomato.com/chicago/south-branch-tavern-grille-loop,3.6,"['American', 'Seafood']",32.5,29,"100 South Wacker Drive, The Loop / Downtown 60606"
+Fulton Market Kitchen,Fulton Market Kitchen,https://www.zomato.com/chicago/fulton-market-kitchen-west-loop,2.9,"['American', 'Tapas']",40.0,6,311 North Sangamon 60607
+Sawada Coffee,Sawada Coffee,https://www.zomato.com/chicago/sawada-coffee-bridgeport,3.5,['Coffee and Tea'],NA,4,"112 N Green Street, Chicago 60607"
+Twisted Spoke,Twisted Spoke,https://www.zomato.com/chicago/twisted-spoke-west-loop,4.3,"['American', 'Burger', 'Sandwich']",17.5,67,501 North Ogden Avenue 60622
+Jaipur,Jaipur,https://www.zomato.com/chicago/jaipur-west-loop,4.1,['Indian'],30.0,50,"847 W Randolph Street, Chicago 60607"
+Bar Takito,Bar Takito,https://www.zomato.com/chicago/bar-takito-west-loop,2.9,['Latin American'],35.0,22,201 North Morgan Street 60607
+High Five Ramen,High Five Ramen,https://www.zomato.com/chicago/high-five-ramen-west-loop,2.7,['Ramen'],20.0,15,112 N. Green Street 60607
+RM Champagne Salon,RM Champagne Salon,https://www.zomato.com/chicago/rm-champagne-salon-west-loop,3.7,['French'],35.0,24,116 N. Green Street 60607
+Giordano's,Giordano's,https://www.zomato.com/chicago/giordanos-pizza-loop,4.5,"['Italian', 'Pizza']",17.5,232,223 West Jackson Boulevard 60606
+Salerno's Chicago,Salerno's,https://www.zomato.com/chicago/salernos-west-town,3.6,"['Italian', 'Pizza']",17.5,27,1201 West Grand Avenue 60622
+Boston Blackie's,Boston Blackies,https://www.zomato.com/chicago/boston-blackies-west-loop,3.8,"['American', 'Burger']",20.0,22,"120 South. Riverside Plaza, Loop, West Loop 60606"
+Flip Crepes,FliP Crepes,https://www.zomato.com/chicago/flip-crepes-west-loop,3.5,"['French', 'Crepes']",12.5,12,"131 North Clinton Street #12, River West, West Loop, Randolp 60661"
+La Colombe Torrefaction,La Colombe,https://www.zomato.com/chicago/la-colombe-west-loop,3.6,['Coffee and Tea'],12.5,12,955 West Randolph Street 60607
+Beggars Pizza,Beggars Pizza,https://www.zomato.com/chicago/beggars-pizza-west-loop,3.6,"['Italian', 'Pizza']",17.5,23,"310 S. Clinton Street, Chicago 60661"
+Chicken and Farm Shop,Chicken & Farm Shop,https://www.zomato.com/chicago/chicken-farm-shop-west-loop,3.0,"['American', 'British']",37.5,7,113-125 North Green Street 60607
+Tanoshii Sushi - West Loop,Tanoshii Sushi Mike's,https://www.zomato.com/chicago/tanoshii-sushi-mikes-west-loop,3.5,"['Japanese', 'Sushi']",30.0,6,720 W. Randolph Street 60661
+Sarpino’s Pizzeria,Sarpino's Pizzeria,https://www.zomato.com/chicago/sarpinos-pizza-downtown-west-loop,3.1,"['Italian', 'Pizza', 'Sandwich']",12.5,7,"627 W. Lake Street, Chicago 60661"
+The Office,The Office at The Aviary,https://www.zomato.com/chicago/the-office-west-loop,3.7,['New American'],110.0,4,"955 W. Fulton Market, Chicago 60607"
+Ramen Takeya,Omakase Takeya,https://www.zomato.com/chicago/omakase-takeya-west-loop,3.7,"['Ramen', 'Japanese']",15.0,15,819 W. Fulton Market 60607
+Pegasus,Pegasus,https://www.zomato.com/chicago/pegasus-greektown,3.7,"['Greek', 'Mediterranean']",32.5,60,"130 S. Halsted Street, Chicago 60661"
+Cobra Lounge,Cobra Lounge,https://www.zomato.com/chicago/cobra-lounge-west-loop,3.5,['American'],25.0,13,"235 N. Ashland Avenue, Chicago 60607"
+The Darling,Au Cheval,https://www.zomato.com/chicago/au-cheval-west-loop,4.9,"['Burger', 'New American', 'Diner']",15.0,211,"800 W Randolph Street, Chicago 60607"
+Emmit's Irish Pub,Emmit's Irish Pub,https://www.zomato.com/chicago/emmits-irish-pub-river-west,3.6,['Pub Food'],25.0,12,"495 North Milwaukee Avenue, River West 60654"
+The Breakfast Club And Grill,The Breakfast Club & Grill,https://www.zomato.com/chicago/the-breakfast-club-grill-west-town,3.9,['American'],17.5,40,1381 W Hubbard Street 60622
+Saigon Sisters,Saigon Sisters,https://www.zomato.com/chicago/saigon-sisters-1-west-loop,4.0,['Vietnamese'],12.5,55,"567 W Lake Street, Chicago 60661"
+WestEnd,WestEnd,https://www.zomato.com/chicago/westend-west-loop,3.8,"['American', 'Pizza']",37.5,27,"1326 West Madison Street, West Loop 60607"
+Mr. Greek Gyros,Mr. Greek Gyros,https://www.zomato.com/chicago/mr-greek-gyros-greektown,3.2,['Greek'],10.0,9,"234 S Halsted Street, Chicago 60661"
+Nine Muses Cafe & Bar,9 Muses,https://www.zomato.com/chicago/9-muses-greektown,3.7,['Greek'],22.5,18,"315 S Halsted Street, Chicago 60661"
+Bottom Lounge,Bottom Lounge,https://www.zomato.com/chicago/bottom-lounge-west-loop,3.1,['Bar Food'],17.5,8,"1375 W. Lake Street, Chicago 60607"
+Cone Gourmet Ice Cream,Cone Gourmet Ice Cream,https://www.zomato.com/chicago/cone-gourmet-ice-cream-west-loop,3.0,['Ice Cream'],7.5,11,1047 W. Madison Street 60607
+Epic Burger,Epic Burger,https://www.zomato.com/chicago/epic-burger-west-loop,3.9,"['Burger', 'American']",12.5,11,550 W. Adams 60661
+Princi,Parlor Pizza Bar,https://www.zomato.com/chicago/parlor-pizza-bar-west-loop,3.7,"['American', 'Pizza']",25.0,31,108 North. Green Street 60607
+Alhambra Palace Restaurant,Alhambra Palace,https://www.zomato.com/chicago/alhambra-palace-west-loop,3.8,['Middle Eastern'],37.5,56,"1240 West Randolph Street, West Loop 60607"
+Le Pain Quotidien,Le Pain Quotidien,https://www.zomato.com/chicago/le-pain-quotidien-west-loop,3.6,"['Cafe', 'French']",15.0,12,135 North Clinton Street 60661
+Third Rail Tavern,Third Rail Tavern,https://www.zomato.com/chicago/third-rail-tavern-west-loop,3.6,"['American', 'Burger']",27.5,11,"1133 W. Madison Street, Chicago 60607"
+Corner Bakery Cafe,Corner Bakery Cafe,https://www.zomato.com/chicago/corner-bakery-cafe-west-loop,3.2,"['Sandwich', 'Bakery']",15.0,4,"500 W. Madison Street, 2nd Floor 60661"
+Green Street Local,Green Street Smoked Meats,https://www.zomato.com/chicago/green-street-smoked-meats-west-loop,4.2,['BBQ'],32.5,45,"112 N Green Street, Chicago 60607"
+The Crossroads Bar and Grill,Crossroads Bar & Grill,https://www.zomato.com/chicago/crossroads-bar-grill-west-loop,3.7,"['American', 'BBQ', 'Southern']",25.0,27,1120 West Madison Street 60607
+Blue Agave,Blue Agave,https://www.zomato.com/chicago/blue-agave-river-north,2.4,['Mexican'],20.0,10,579 West Kinze Street 60654
+Gold Coast Dogs S Canal St,Gold Coast Dogs,https://www.zomato.com/chicago/gold-coast-dogs-west-loop,3.8,"['Fast Food', 'American']",12.5,5,"In Union Station, 225 South Canal Street 60606"
+Jubilee Juice & Grill,Jubilee Juice & Grill,https://www.zomato.com/chicago/jubilee-juice-grill-west-loop,3.4,"['Healthy Food', 'Beverages', 'Burger', 'Mexican']",12.5,17,140 North Halsted Street 60661
+Jefferson Tap,Jefferson Tap & Grille,https://www.zomato.com/chicago/jefferson-tap-grille-west-loop,3.7,['Bar Food'],37.5,17,"325 North Jefferson Street, West Loop/Fulton River District 60661"
+La Cuchara,La Cuchara,https://www.zomato.com/chicago/la-cuchara-west-loop,2.6,['Mexican'],10.0,4,"1521 W. Madison Street, West Loop, Chicago 60607"
+Talay Chicago,Talay Chicago,https://www.zomato.com/chicago/talay-chicago-west-loop,3.8,"['Sushi', 'Thai']",22.5,4,"1222 W. Madison, West Loop, Chicago 60607"
+Roti,Rōti Mediterranean Grill,https://www.zomato.com/chicago/roti-mediterranean-grill-west-loop,3.6,['Mediterranean'],12.5,26,10 South Riverside Plaza 60606
+McDonald's,McDonald's,https://www.zomato.com/chicago/mcdonalds-west-loop,3.3,['Fast Food'],10.0,4,500 West Madison Street 60661
+Frietkoten Belgian Fries and Beer,Frietkoten Belgian Fries & Beer,https://www.zomato.com/chicago/frietkoten-belgian-fries-beer-west-loop,3.9,"['Belgian', 'Fast Food']",15.0,9,"Chicago French Market, 131 N Clinton Street 60661"
+Shake Shack,Shake Shack,https://www.zomato.com/chicago/shake-shack-loop,3.2,"['American', 'Burger']",15.0,20,"Chicago Athletic Association, 12 S. Michigan Avenue, 1st Floor, Chicago 60603"
+Dylans Tavern & Grill,Dylan's Tavern & Grill,https://www.zomato.com/chicago/dylans-tavern-grill-west-loop,2.7,"['American', 'Burger', 'Sandwich']",25.0,16,118 South Clinton Street 60661
+Beavers Donuts,Beavers Donuts,https://www.zomato.com/chicago/beavers-donuts-west-loop,3.5,"['Donuts', 'Coffee and Tea']",6.0,7,"Chicago French Market, 131 N Clinton Street 60661"
+Porkchop,Porkchop,https://www.zomato.com/chicago/porkchop-west-loop,3.0,"['BBQ', 'American', 'Southern']",27.5,12,941 West Randolph Street 60607
+Fast Track,Fast Track,https://www.zomato.com/chicago/fast-track-west-loop,3.6,['American'],10.0,10,"629 W. Lake Street, Chicago 60661"
+Robinson's #1 Ribs - South Canal,Robinson's No. 1 Ribs,https://www.zomato.com/chicago/robinsons-no-1-ribs-west-loop,2.9,"['BBQ', 'Southern']",12.5,6,225 South Canal Street 60606
+The Aberdeen Tap,The Aberdeen Tap,https://www.zomato.com/chicago/the-aberdeen-tap-west-loop,3.6,['American'],30.0,4,440 North Aberdeen Street 60642
+New Line Tavern,New Line Tavern,https://www.zomato.com/chicago/new-line-tavern-west-loop,3.5,"['Pub Food', 'Burger', 'Sandwich', 'Taco']",27.5,17,"201 North Clinton Street, Near West Side 60661"
+Corner Bakery,Corner Bakery Cafe,https://www.zomato.com/chicago/corner-bakery-cafe-2-west-loop,2.9,"['Sandwich', 'Bakery']",15.0,9,"444 West Jackson Boulevard, Suite 4 60606"
+The Brass Monkey,Brass Monkey Brasserie,https://www.zomato.com/chicago/brass-monkey-brasserie-west-town,3.1,['American'],25.0,8,"401 N. Morgan Street, Chicago 60642"
+Nobu Chicago,Momotaro,https://www.zomato.com/chicago/momotaro-west-loop,3.8,"['Japanese', 'Sushi']",32.5,24,820 West Lake Street 60607
+Bebe's Eatery,Bebe's Kosher Deli,https://www.zomato.com/chicago/bebes-kosher-deli-west-loop,2.7,"['Sandwich', 'Deli', 'Bagels']",12.5,4,"Chicago French Market, 131 N Clinton Street 60661"
+Spectrum Bar & Grill,Spectrum Bar and Grill,https://www.zomato.com/chicago/spectrum-bar-and-grill-greektown,3.2,"['American', 'Greek']",12.5,8,"233 S Halsted Street, Chicago 60661"
+Ciao! Cafe & Wine Lounge,Cafe Ciao,https://www.zomato.com/chicago/cafe-ciao-west-loop,3.4,['Italian'],5.0,9,939 West Madison Street 60607
+Cemitas Puebla - West Loop,Cemitas Puebla,https://www.zomato.com/chicago/cemitas-puebla-west-loop,3.0,['Mexican'],15.0,7,817 West Fulton Market 60607
+McDonald's,McDonald's,https://www.zomato.com/chicago/mcdonalds-west-loop,3.3,['Fast Food'],10.0,4,500 West Madison Street 60661

@@ -1,0 +1,138 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+La Scarola,La Scarola,https://www.zomato.com/chicago/la-scarola-river-west,4.5,['Italian'],35.0,137,"721 W. Grand Avenue, Chicago 60654"
+Piece,Piece,https://www.zomato.com/chicago/piece-wicker-park,4.4,"['Pizza', 'Bar Food']",17.5,481,1927 W North Avenue 60622
+Picollo Sogno,Piccolo Sogno,https://www.zomato.com/chicago/piccolo-sogno-river-west,4.4,['Italian'],45.0,145,464 North Halsted 60622
+Mindy's Hot Chocolate,Hot Chocolate,https://www.zomato.com/chicago/hot-chocolate-wicker-park,4.4,"['American', 'Desserts']",35.0,408,1747 North Damen 60647
+Stan's Donuts and Coffee,Stan's Donuts,https://www.zomato.com/chicago/stans-donuts-wicker-park,3.9,"['Donuts', 'Desserts', 'Coffee and Tea']",7.5,36,"1560 N. Damen Avenue, Chicago 60622"
+Big Star,Big Star,https://www.zomato.com/chicago/big-star-wicker-park,4.4,['Mexican'],25.0,394,"1531 N Damen Avenue, Chicago 60622"
+Bongo Room,The Bongo Room,https://www.zomato.com/chicago/the-bongo-room-wicker-park,4.3,['American'],22.5,292,1470 N Milwaukee Avenue 60622
+Small Cheval,Small Cheval,https://www.zomato.com/chicago/small-cheval-wicker-park,3.0,['Burger'],22.5,16,"1732 N Milwaukee Avenue, Chicago 60622"
+The Smoke Daddy,Smoke Daddy,https://www.zomato.com/chicago/smoke-daddy-wicker-park,4.0,"['American', 'BBQ']",22.5,229,1804 West Division Street 60622
+The Violet Hour,The Violet Hour,https://www.zomato.com/chicago/the-violet-hour-wicker-park,4.0,['Bar Food'],20.0,139,1520 N. Damen Avenue 60622
+Dove's Luncheonette,Dove's Luncheonette,https://www.zomato.com/chicago/doves-luncheonette-wicker-park,3.6,"['Mexican', 'Southern']",25.0,27,"1545 N. Damen Avenue, Chicago 60622"
+The Dawson,The Dawson,https://www.zomato.com/chicago/the-dawson-river-west,3.5,['New American'],37.5,21,730 West Grand Avenue 60654
+Antique Taco,Antique Taco,https://www.zomato.com/chicago/antique-taco-wicker-park,4.4,['Taco'],17.5,111,1360 North Milwaukee Avenue 60622
+Jeni's Splendid Ice Creams,Jeni's Splendid Ice Creams,https://www.zomato.com/chicago/jenis-splendid-ice-creams-wicker-park,3.3,['Ice Cream'],7.5,8,1505 Milwaukee Avenue 60622
+PICCOLO SOGNO DUE,Piccolo Sogno,https://www.zomato.com/chicago/piccolo-sogno-river-west,4.4,['Italian'],45.0,145,464 North Halsted 60622
+Two Restaurant & Bar,TWO Restaurant,https://www.zomato.com/chicago/two-restaurant-west-town,3.9,['New American'],27.5,21,1132 West Grand Avenue 60642
+Nando Milano Trattoria,Nando Milano Trattoria,https://www.zomato.com/chicago/nando-milano-trattoria-wicker-park,3.6,['Italian'],37.5,12,2114 West Division Street 60622
+Club Lucky,Club Lucky,https://www.zomato.com/chicago/club-lucky-wicker-park,4.4,"['Italian', 'Seafood']",30.0,98,"1824 West Wabansia Avenue, Bucktown - Wicker Park 60622"
+The Handlebar,Handlebar,https://www.zomato.com/chicago/handlebar-wicker-park,4.4,"['American', 'Bar Food']",17.5,115,2311 W North Avenue 60647
+Kai Zan,Kai Zan,https://www.zomato.com/chicago/kai-zan-west-town,3.9,"['Japanese', 'Sushi']",17.5,16,"2557 W. Chicago Avenue, Chicago 60622"
+Coalfire,Coalfire,https://www.zomato.com/chicago/coalfire-west-town,4.3,['Pizza'],20.0,92,1321 W. Grand Avenue 60642
+Boeufhaus,Boeufhaus,https://www.zomato.com/chicago/boeufhaus-west-town,3.2,"['French', 'German']",47.5,8,"1012 N. Western Avenue, Chicago 60622"
+mana foodbar,Mana Food Bar,https://www.zomato.com/chicago/mana-food-bar-wicker-park,4.1,['Vegetarian'],20.0,63,1742 W. Division Street 60622
+Hoosier Mama Pie Company,Hoosier Mama Pie Company,https://www.zomato.com/chicago/hoosier-mama-pie-company-west-town,4.2,"['Cafe', 'Desserts', 'Bakery']",7.5,54,1618 1/2 Chicago Avenue 60622
+Fatso's Last Stand,Fatso's Last Stand,https://www.zomato.com/chicago/fatsos-last-stand-ukrainian-village,3.9,"['American', 'Burger']",10.0,35,2258 West Chicago Avenue 60622
+Native Foods,Native Foods Café,https://www.zomato.com/chicago/native-foods-cafe-wicker-park,4.1,"['American', 'Mexican']",15.0,55,"1484 N Milwaukee Avenue, Chicago 60622"
+Flo,Flo,https://www.zomato.com/chicago/flo-west-town,4.4,"['American', 'Mexican']",20.0,80,1434 W Chicago Avenue 60622
+Oiistar,Oiistar,https://www.zomato.com/chicago/oiistar-wicker-park,3.8,"['Asian', 'Ramen']",20.0,23,"1385 N Milwaukee Avenue, Chicago 60622"
+D'Amato's Bakery,D'Amato's Bakery,https://www.zomato.com/chicago/damato-s-bakery-west-town,3.9,"['Fast Food', 'Bakery']",7.5,35,1124 W Grand Avenue 60622
+Mart Anthony's Italian Restaurant,Mart Anthony's,https://www.zomato.com/chicago/mart-anthonys-west-loop,3.5,"['Italian', 'Pizza']",35.0,9,"1200 W. Hubbard Street, Chicago 60622"
+Shokolad,Shokolad,https://www.zomato.com/chicago/shokolad-west-town,3.5,"['European', 'Bakery']",15.0,7,"2524 W. Chicago Avenue, Chicago 60622"
+Yuzu Sushi & Robata Grill,Yuzu Sushi and Robata Grill,https://www.zomato.com/chicago/yuzu-sushi-and-robata-grill-west-town,4.1,['Sushi'],25.0,41,"1751 W Chicago Avenue, Chicago 60622"
+Cumin,Cumin,https://www.zomato.com/chicago/cumin-wicker-park,4.3,"['Indian', 'Nepalese']",30.0,89,"1414 N Milwaukee Avenue, Chicago 60622"
+Windy City Cafe,Windy City Cafe,https://www.zomato.com/chicago/windy-city-cafe-river-west,3.4,['American'],17.5,12,"1062 West Chicago Avenue, West Town 60642"
+Mirai Sushi,Mirai,https://www.zomato.com/chicago/mirai-wicker-park,3.9,"['Sushi', 'Japanese']",20.0,68,2020 W. Division Street 60622
+Spinning J Bakery and Soda Fountain,Spinning J,https://www.zomato.com/chicago/spinning-j-west-town,3.5,"['Bakery', 'Desserts']",5.0,4,"1000 N California Avenue, Chicago 60622"
+Taxim,Taxim,https://www.zomato.com/chicago/taxim-wicker-park,4.0,['Greek'],37.5,54,"1558 N. Milwaukee Avenue, Chicago 60622"
+Ada Street,Ada Street,https://www.zomato.com/chicago/ada-street-west-town,3.9,['New American'],35.0,39,"1664 N Ada Street, Chicago 60642"
+Tocco Pizza e Arte,Tocco,https://www.zomato.com/chicago/tocco-wicker-park,2.9,"['Italian', 'Pizza']",27.5,26,"1266 N Milwaukee Avenue, Chicago 60622"
+Sultan's Market,Sultan's Market,https://www.zomato.com/chicago/sultans-market-wicker-park,4.3,['Middle Eastern'],12.5,254,"2057 West North Avenue, Wicker Park 60647"
+Takito Kitchen,Takito Kitchen,https://www.zomato.com/chicago/takito-kitchen-bucktown,2.8,['Mexican'],27.5,20,"2013 West Division Street, Wicker Park 60622"
+The Wormhole Coffee,The Wormhole Coffee,https://www.zomato.com/chicago/the-wormhole-coffee-wicker-park,4.6,['Cafe'],5.0,53,"1462 N. Milwaukee Avenue, Chicago 60622"
+Milk & Honey Cafe,Milk and Honey Cafe,https://www.zomato.com/chicago/milk-and-honey-cafe-wicker-park,4.2,"['American', 'Sandwich', 'Cafe']",22.5,110,1920 W. Division Street 60622
+Umami Burger,Umami Burger,https://www.zomato.com/chicago/umami-burger-wicker-park,3.5,['Burger'],20.0,22,1480 North Milwaukee Avenue 60622
+Uncle Mike's Place,Uncle Mike's Place,https://www.zomato.com/chicago/uncle-mikes-place-west-town,3.9,"['Diner', 'American', 'Sandwich']",17.5,34,1700 W Grand Avenue 60622
+Enoteca Roma,Enoteca Roma,https://www.zomato.com/chicago/enoteca-roma-wicker-park,3.9,['Italian'],27.5,36,2146 West. Division 60622
+Bari Subs,Bari,https://www.zomato.com/chicago/bari-west-town,4.3,"['Italian', 'Sandwich']",7.5,65,1120 W. Grand Avenue 60622
+Podhalanka,La Bruquena,https://www.zomato.com/chicago/la-bruquena-west-town,3.6,"['Puerto Rican', 'Caribbean']",15.0,18,2726 W Division Street 60622
+Schwa,Schwa,https://www.zomato.com/chicago/schwa-west-town,4.2,['New American'],130.0,58,1466 N. Ashland Avenue 60622
+Bite Cafe,Bite Cafe,https://www.zomato.com/chicago/bite-cafe-ukrainian-village,4.3,['New American'],20.0,64,"1039 N Western Avenue, Chicago 60622"
+Twisted Spoke,Twisted Spoke,https://www.zomato.com/chicago/twisted-spoke-west-loop,4.3,"['American', 'Burger', 'Sandwich']",17.5,67,501 North Ogden Avenue 60622
+A Tavola,A Tavola,https://www.zomato.com/chicago/a-tavola-ukrainian-village,3.9,['Italian'],40.0,33,2148 W Chicago Avenue 60622
+Mott St,Mott Street,https://www.zomato.com/chicago/mott-street-west-town,3.6,"['Asian', 'New American']",35.0,14,"1401 N. Ashland Avenue, Chicago 60622"
+El Barco Mariscos,El Barco,https://www.zomato.com/chicago/el-barco-west-town,3.3,"['Seafood', 'Mexican']",25.0,58,1035 N Ashland Avenue 60622
+Via Carducci La Sorella,Via Carducci La Sorella,https://www.zomato.com/chicago/via-carducci-la-sorella-wicker-park,3.5,"['Italian', 'Pizza']",25.0,26,1928 West Division Street 60622
+Alliance Bakery,Alliance Bakery & Cafe,https://www.zomato.com/chicago/alliance-bakery-cafe-wicker-park,3.8,['Cafe'],10.0,46,1736 W Division Street 60622
+Black Dog Gelato,Black Dog Gelato,https://www.zomato.com/chicago/black-dog-gelato-west-town,4.0,"['Desserts', 'Ice Cream']",7.5,47,"859 N. Damen Avenue, Chicago 60622"
+Las Palmas of Wicker Park,Las Palmas Mexican Restaurant,https://www.zomato.com/chicago/las-palmas-wicker-park,3.9,"['Latin American', 'Mexican']",20.0,47,1835 W. North Avenue 60622
+Tryzub,La Bruquena,https://www.zomato.com/chicago/la-bruquena-west-town,3.6,"['Puerto Rican', 'Caribbean']",15.0,18,2726 W Division Street 60622
+Folklore,Folklore,https://www.zomato.com/chicago/folklore-wicker-park,3.6,"['Latin American', 'Argentine']",37.5,23,"2100 W. Division Street, Chicago 60622"
+The Chop Shop,Chop Shop,https://www.zomato.com/chicago/chop-shop-wicker-park,3.8,['American'],20.0,11,"2033 West North Avenue, Chicago 60647"
+Iguana Cafe,Iguana Cafe,https://www.zomato.com/chicago/iguana-cafe-river-west,3.9,"['Desserts', 'European', 'Sandwich', 'Crepes']",17.5,41,"517 N Halsted Street, Chicago 60622"
+Bella Notte,Bella Notte,https://www.zomato.com/chicago/bella-notte-west-town,3.9,['Italian'],30.0,35,"1374 West Grand Avenue, River West 60622"
+Salerno's Chicago,Salerno's,https://www.zomato.com/chicago/salernos-west-town,3.6,"['Italian', 'Pizza']",17.5,27,1201 West Grand Avenue 60622
+Pub Royale,Pub Royale,https://www.zomato.com/chicago/pub-royale-ukrainian-village,3.6,['Indian'],27.5,7,"2049 W. Division Street, Chicago 60622"
+Falafel & Grill,Falafel & Grill,https://www.zomato.com/chicago/falafel-grill-wicker-park,3.7,"['Mediterranean', 'Middle Eastern']",15.0,17,"1317 N. Milwaukee Avenue, Chicago 60622"
+Furious Spoon,Furious Spoon,https://www.zomato.com/chicago/furious-spoon-wicker-park,3.4,['Ramen'],12.5,17,"1571 N. Milwaukee Avenue, Chicago 60622"
+Frontier,Frontier,https://www.zomato.com/chicago/frontier-west-town,4.5,['Southern'],25.0,56,"1072 N Milwaukee Avenue, Chicago 60642"
+Janik's Cafe,Janik's Cafe,https://www.zomato.com/chicago/janiks-cafe-bucktown,3.7,"['Mexican', 'Sandwich']",15.0,20,"2011 W Division Street, Chicago 60622"
+Rootstock Wine & Beer Bar,Rootstock,https://www.zomato.com/chicago/rootstock-west-town,4.1,['American'],20.0,45,"954 N. California Avenue, Chicago 60622"
+Lou Malnati's Pizzeria - Carry Out,Lou Malnati's Pizzeria,https://www.zomato.com/chicago/lou-malnatis-pizzeria-west-loop,3.2,['Pizza'],20.0,9,"1235 W. Randolph Street, Chicago 60607"
+Links Taproom,Links Taproom,https://www.zomato.com/chicago/links-taproom-wicker-park,3.3,"['American', 'Bar Food']",15.0,6,"1559 N  Milwaukee Avenue, Chicago 60622"
+BIG & little's Restaurant,Big & Little's,https://www.zomato.com/chicago/big-littles-river-west,4.4,"['Sandwich', 'Burger', 'Taco', 'Mexican']",17.5,118,"860 N Orleans Street, Chicago 60610"
+Arami,ARAMI,https://www.zomato.com/chicago/arami-west-town,4.1,"['Japanese', 'Sushi']",25.0,45,1829 West Chicago Avenue 60622
+Homestead on the Roof,Homestead on the Roof,https://www.zomato.com/chicago/homestead-on-the-roof-west-town,3.3,['New American'],27.5,10,1924 West Chicago Avenue 60622
+Seadog sushi bar,Seadog,https://www.zomato.com/chicago/seadog-west-town,3.6,"['Sushi', 'Japanese']",22.5,22,1500 W. Division Street 60642
+The Fifty/50,The Fifty/50,https://www.zomato.com/chicago/the-fifty-50-wicker-park,3.8,['American'],20.0,49,2047 West Division Street 60622
+Mr. Brown's Lounge,Mr. Brown's Lounge,https://www.zomato.com/chicago/mr-browns-lounge-west-town,3.8,['Jamaican'],20.0,25,"2301 W. Chicago Avenue, Chicago 60622"
+Kanela,Kanela Breakfast Club,https://www.zomato.com/chicago/kanela-breakfast-club-wicker-park,3.4,['American'],20.0,9,"1408 N. Milwaukee Avenue, Chicago 60622"
+Kasia's Polish Delicatessen,Kasia's Deli,https://www.zomato.com/chicago/kasias-deli-west-town,3.9,"['Polish', 'Sandwich', 'Deli']",12.5,23,2101 W Chicago Avenue 60622
+Hollywood Grill,Hollywood Grill,https://www.zomato.com/chicago/hollywood-grill-west-town,3.7,['American'],20.0,32,1601 W. North Avenue 60622
+Emmit's Irish Pub,Emmit's Irish Pub,https://www.zomato.com/chicago/emmits-irish-pub-river-west,3.6,['Pub Food'],25.0,12,"495 North Milwaukee Avenue, River West 60654"
+The Breakfast Club And Grill,The Breakfast Club & Grill,https://www.zomato.com/chicago/the-breakfast-club-grill-west-town,3.9,['American'],17.5,40,1381 W Hubbard Street 60622
+Northside Bar & Grill,Northside Bar and Grill,https://www.zomato.com/chicago/northside-bar-and-grill-wicker-park,3.7,"['American', 'Burger', 'Bar Food']",27.5,45,1635 N Damen Avenue 60647
+La Pasadita,La Pasadita,https://www.zomato.com/chicago/la-pasadita-west-town,4.0,"['Mexican', 'Taco']",12.5,74,1140 North Ashland Avenue 60622
+Dimo's Pizza,Dimo's Pizza,https://www.zomato.com/chicago/dimos-pizza-wicker-park,3.1,"['Italian', 'Pizza']",12.5,18,"1615 N. Damen Avenue, Wicker Park, Chicago 60647"
+Upton's Breakroom - Chicago,Upton's Breakroom,https://www.zomato.com/chicago/uptons-breakroom-west-town,2.9,['Sandwich'],12.5,4,2054 West Grand Avenue 60612
+Pork & Mindy’s,Pork & Mindy's,https://www.zomato.com/chicago/pork-mindys-wicker-park,3.4,['BBQ'],NA,6,"1623 N. Milwaukee Avenue, Chicago 60647"
+Lucia Gourmet Italian,Lucia's Ristorante,https://www.zomato.com/chicago/lucias-ristorante-wicker-park,3.9,"['Italian', 'Pizza', 'Sandwich']",30.0,34,1825 W. North Avenue 60622
+Sushi Taku,Yuzu Sushi and Robata Grill,https://www.zomato.com/chicago/yuzu-sushi-and-robata-grill-west-town,4.1,['Sushi'],25.0,41,"1751 W Chicago Avenue, Chicago 60622"
+Porto,La Bruquena,https://www.zomato.com/chicago/la-bruquena-west-town,3.6,"['Puerto Rican', 'Caribbean']",15.0,18,2726 W Division Street 60622
+Old Lviv,Old Lviv,https://www.zomato.com/chicago/old-lviv-ukrainian-village,3.7,['Eastern European'],12.5,10,"2228 W Chicago Avenue, Chicago 60622"
+Letizia's Natural Bakery,Letizia's Natural Bakery,https://www.zomato.com/chicago/letizias-natural-bakery-wicker-park,4.0,"['American', 'Italian']",15.0,47,2144 West Division Street 60622
+Tuman's Tap & Grill,Tuman's Tap & Grill,https://www.zomato.com/chicago/tumans-tap-grill-west-town,3.0,"['American', 'Bar Food']",22.5,10,2159 W. Chicago Avenue 60622
+Papa's Cache Sabroso,Papa's Cache Sabroso,https://www.zomato.com/chicago/papas-cache-sabroso-west-town,3.6,['Puerto Rican'],15.0,11,2517 W Division Street 60622
+Blue Line Club Car,Blue Line Lounge and Grill,https://www.zomato.com/chicago/blue-line-lounge-and-grill-wicker-park,4.1,"['Bar Food', 'American']",15.0,50,1568 N Damen Avenue 60622
+Devil Dawgs,Devil Dawgs,https://www.zomato.com/chicago/devil-dawgs-lincoln-park,3.9,['American'],10.0,29,"2147 N. Sheffield Avenue, Chicago 60614"
+Cafe Colao,Cafe Colao,https://www.zomato.com/chicago/cafe-colao-west-town,3.2,"['Cafe', 'Bakery']",10.0,6,2638 W Division Street 60622
+Tecalitlan Restaurant,Tecalitlan Restaurant,https://www.zomato.com/chicago/tecalitlan-restaurant-west-town,3.8,['Mexican'],12.5,32,1814 West Chicago Avenue 60622
+West Town Bakery & Diner,West Town Bakery & Diner,https://www.zomato.com/chicago/west-town-bakery-diner-west-town,3.7,"['Bakery', 'Desserts', 'Sandwich']",7.5,10,"1916 W. Chicago Avenue, Chicago 60622"
+Hash,Hash,https://www.zomato.com/chicago/hash-wicker-park,3.7,['New American'],12.5,16,"1357 N. Western Avenue, Chicago 60622"
+Mariscos El Veneno,Mariscos El Veneno,https://www.zomato.com/chicago/mariscos-el-veneno-west-lawn,3.6,"['Mexican', 'Seafood']",12.5,22,"6651 S Pulaski Road, Chicago 60629"
+Roots Handmade Pizza,Roots Handmade Pizza - West Town,https://www.zomato.com/chicago/roots-handmade-pizza-west-town-west-town,3.8,"['American', 'Pizza']",20.0,39,1924 West Chicago Avenue 60622
+Star Lounge Coffee Bar,Star Lounge Coffee,https://www.zomato.com/chicago/star-lounge-coffee-west-town,3.7,['Coffee and Tea'],5.0,11,"2521 W. Chicago Avenue, Chicago 60622"
+Bullhead Cantina,Bullhead Cantina,https://www.zomato.com/chicago/bullhead-cantina-west-town,3.2,"['Mexican', 'Bar Food']",12.5,5,"1143 N. California Avenue, Chicago 60622"
+Jay's Beef of Chicago,Jay's Beef,https://www.zomato.com/chicago/jays-beef-wicker-park,3.0,['American'],10.0,5,"2255 W. North Avenue, Chicago 60647"
+La Bruquena,La Bruquena,https://www.zomato.com/chicago/la-bruquena-west-town,3.6,"['Puerto Rican', 'Caribbean']",15.0,18,2726 W Division Street 60622
+Standard Bar & Grill,Standard Bar & Grill,https://www.zomato.com/chicago/standard-bar-grill-wicker-park,2.3,['American'],25.0,5,"1332 N. Milwaukee Avenue, Chicago 60622"
+Enso Sushi & Bar,Enso Sushi & Bar,https://www.zomato.com/chicago/enso-sushi-bar-wicker-park,3.5,"['Japanese', 'Sushi']",25.0,9,"1613 N. Damen Avenue, Chicago 60647"
+Sunrise Cafe,Sunrise Café,https://www.zomato.com/chicago/sunrise-cafe-ukrainian-village,3.5,['American'],17.5,25,2012 W. Chicago Avenue 60622
+Choppers,Choppers,https://www.zomato.com/chicago/choppers-west-town,3.7,"['American', 'Burger', 'Fast Food']",10.0,18,1659 N. Ashland Avenue 60622
+Cleo's Bar & Grill,Cleos,https://www.zomato.com/chicago/cleos-west-town,3.2,"['American', 'Bar Food']",20.0,20,1935 West Chicago Avenue 60622
+Flash Taco,Flash Taco,https://www.zomato.com/chicago/flash-taco-wicker-park,2.2,"['Fast Food', 'Mexican']",17.5,41,1570 N Damen Avenue 60622
+Sushi X,Sushi X,https://www.zomato.com/chicago/sushi-x-west-town,3.9,"['Sushi', 'Japanese']",25.0,33,1136 W. Chicago Avenue 60622
+La Plena Resturant,La Plena Restaurant,https://www.zomato.com/chicago/la-plena-restaurant-west-town,3.6,['Puerto Rican'],10.0,8,"2617 W. Division Street, Chicago 60622"
+Bonci Wicker Park,Tocco,https://www.zomato.com/chicago/tocco-wicker-park,2.9,"['Italian', 'Pizza']",27.5,26,"1266 N Milwaukee Avenue, Chicago 60622"
+Pizza Metro,Pizza Metro,https://www.zomato.com/chicago/pizza-metro-west-town,3.7,"['Italian', 'Pizza', 'Sandwich']",17.5,27,1707 West Division Street 60622
+Pint,Pint,https://www.zomato.com/chicago/pint-wicker-park,3.7,"['Burger', 'British', 'American']",20.0,26,1547 N. Milwaukee Avenue 60622
+Urbanbelly,Urbanbelly,https://www.zomato.com/chicago/urbanbelly-west-loop,4.4,['Vietnamese'],32.5,219,"1400 W Randolph Street, Chicago 60607"
+Craft Pizza,Craft Pizza,https://www.zomato.com/chicago/craft-pizza-wicker-park,3.1,['Pizza'],25.0,6,1252 North Damen Avenue 60622
+Flying Saucer,Flying Saucer,https://www.zomato.com/chicago/flying-saucer-humboldt-park-garfield-park,3.8,['American'],12.5,25,"1123 N. California Avenue, Chicago 60622"
+"Nori Sushi - Wicker Park, Chicago",Nori,https://www.zomato.com/chicago/nori-wicker-park,2.2,"['Asian', 'Japanese', 'Thai', 'Sushi']",20.0,4,"1393 N. Milwaukee Avenue, Chicago 60622"
+The Boundary Tavern & Grille,The Boundary Tavern and Grille,https://www.zomato.com/chicago/the-boundary-tavern-and-grille-wicker-park,3.4,['American'],20.0,33,"1932 W. Division Street, Chicago 60622"
+Oggi Trattoria,La Bruquena,https://www.zomato.com/chicago/la-bruquena-west-town,3.6,"['Puerto Rican', 'Caribbean']",15.0,18,2726 W Division Street 60622
+Cafe Central,Cafe Central,https://www.zomato.com/chicago/cafe-central-west-town,3.7,"['Puerto Rican', 'Latin American']",15.0,14,1437 W. Chicago Avenue 60622
+The Aberdeen Tap,The Aberdeen Tap,https://www.zomato.com/chicago/the-aberdeen-tap-west-loop,3.6,['American'],30.0,4,440 North Aberdeen Street 60642
+Ameer Kabob Mediterranean Cuisine,Ameer Kabob,https://www.zomato.com/chicago/ameer-kabob-west-town,3.3,['Middle Eastern'],15.0,7,"1050 N Milwaukee Avenue, Chicago 60642"
+Ann's Bakery,Ann's Bakery & Deli,https://www.zomato.com/chicago/anns-bakery-deli-ukrainian-village,2.4,"['European', 'Ukrainian', 'Bakery', 'Deli']",12.5,4,"2158 W Chicago Avenue, Chicago 60622"
+Filter Cafe,Filter,https://www.zomato.com/chicago/filter-wicker-park,3.6,"['American', 'Cafe']",17.5,17,1373 N Milwaukee Avenue 60642
+Five Star,Five Star Bar,https://www.zomato.com/chicago/five-star-bar-west-town,3.7,['Bar Food'],20.0,21,1424 W. Chicago Avenue 60642
+Sushi Para M,Sushi Para M,https://www.zomato.com/chicago/sushi-para-m-wicker-park,3.4,"['Japanese', 'Sushi']",22.5,11,"1633 N. Milwaukee Avenue, Chicago 60647"
+Mac's Wood Grilled,Mac's American Pub,https://www.zomato.com/chicago/macs-american-pub-west-town,3.8,"['American', 'Bar Food']",22.5,14,1801 W. Division Street 60622
+D'Agostino's Pizza and Pub,D'Agostino's,https://www.zomato.com/chicago/dagostino-s-pizzeria-lakeview,3.5,"['Italian', 'Pizza', 'Sandwich']",15.0,62,"1351 W. Addison Street, Chicago 60613"
+Thai Lagoon,Thai Lagoon,https://www.zomato.com/chicago/thai-lagoon-wicker-park,2.6,['Thai'],15.0,34,2322 W. North Avenue 60647
+Blue Fin,Blue Fin,https://www.zomato.com/chicago/blue-fin-wicker-park,3.6,"['Asian', 'Japanese', 'Sushi']",27.5,15,1952 W. North Avenue 60622
+Tozi,Tozi Korean BBQ Restaurant,https://www.zomato.com/chicago/tozi-korean-bbq-restaurant-bucktown,3.5,"['BBQ', 'Korean', 'Steak']",32.5,12,"1265 N Milwaukee Avenue, Chicago 60622"
+The Anthem,The Anthem,https://www.zomato.com/chicago/the-anthem-west-town,2.5,"['Bar Food', 'Burger']",27.5,7,"1725 W. Division Street, Chicago 60622"

@@ -1,0 +1,20 @@
+restaurant_name,link,price_class,price_range,category,michelin,ranking,avg_rating,food_rating,service_rating,value_rating,atmosphere_rating,review_count,rate5_count,rate4_count,rate3_count,rate2_count,rate1_count
+S.K.Y,https://www.tripadvisor.com/Restaurant_Review-g35805-d13445407-Reviews-S_K_Y-Chicago_Illinois.html,2.5,[],"['American', 'Asian', 'Vegetarian Friendly']",True,228,5,NA,NA,NA,NA,62,55,5,2,0,0
+Dusek's Board & Beer,https://www.tripadvisor.com/Restaurant_Review-g35805-d5114172-Reviews-Dusek_s_Board_Beer-Chicago_Illinois.html,2.5,[],"['American', 'Bar', 'Vegetarian Friendly']",True,178,4,4.5,4.5,4.0,4.0,177,88,55,20,4,3
+HaiSous Vietnamese Kitchen,https://www.tripadvisor.com/Restaurant_Review-g35805-d12607862-Reviews-HaiSous_Vietnamese_Kitchen-Chicago_Illinois.html,2.5,[],"['Asian', 'Vietnamese', 'Vegetarian Friendly']",True,395,4,NA,NA,NA,NA,74,44,26,0,1,3
+Honky Tonk BBQ,https://www.tripadvisor.com/Restaurant_Review-g35805-d2369753-Reviews-Honky_Tonk_BBQ-Chicago_Illinois.html,2.5,[],"['American', 'Bar', 'Barbecue']",False,363,4,4.5,4.5,4.0,4.0,96,47,29,12,5,0
+Canton Regio,https://www.tripadvisor.com/Restaurant_Review-g35805-d10172329-Reviews-Canton_Regio-Chicago_Illinois.html,2.5,[],"['Mexican', 'Latin']",True,606,4,NA,NA,NA,NA,54,31,13,4,2,1
+Azul 18,https://www.tripadvisor.com/Restaurant_Review-g35805-d7173915-Reviews-Azul_18-Chicago_Illinois.html,2.5,[],"['Latin', 'Spanish', 'Vegetarian Friendly']",False,49,4,NA,NA,NA,NA,31,18,9,2,0,0
+Monnie Burke's,https://www.tripadvisor.com/Restaurant_Review-g35805-d14110827-Reviews-Monnie_Burke_s-Chicago_Illinois.html,2.5,"[10, 35]","['American', 'Bar', 'Gastropub']",False,935,4,NA,NA,NA,NA,26,16,6,3,0,1
+Cafe Jumping Bean,https://www.tripadvisor.com/Restaurant_Review-g35805-d840412-Reviews-Cafe_Jumping_Bean-Chicago_Illinois.html,1,[],"['Quick Bites', 'Cafe']",False,58,4,NA,NA,NA,NA,23,13,5,3,0,0
+Don Pedro Carnitas,https://www.tripadvisor.com/Restaurant_Review-g35805-d4203195-Reviews-Don_Pedro_Carnitas-Chicago_Illinois.html,1,[],"['Mexican', 'Spanish']",False,1,4,NA,NA,NA,NA,21,12,3,1,1,0
+Pl-zen,https://www.tripadvisor.com/Restaurant_Review-g35805-d3813921-Reviews-Pl_zen-Chicago_Illinois.html,2.5,[],"['Mexican', 'Bar', 'Contemporary']",False,83,4,NA,NA,NA,NA,19,12,6,1,0,0
+Taqueria El Milagro,https://www.tripadvisor.com/Restaurant_Review-g35805-d428851-Reviews-Taqueria_El_Milagro-Chicago_Illinois.html,1,[],"['Quick Bites', 'Mexican', 'Latin']",False,244,4,4.5,4.5,4.5,4.5,34,19,10,2,0,3
+Simone's,https://www.tripadvisor.com/Restaurant_Review-g35805-d2579127-Reviews-Simone_s-Chicago_Illinois.html,1,"[5, 15]","['Bar', 'International']",False,1,4,4.0,4.5,4.0,4.0,20,11,5,1,1,0
+Los Comales of 18th Street,https://www.tripadvisor.com/Restaurant_Review-g35805-d533904-Reviews-Los_Comales_of_18th_Street-Chicago_Illinois.html,1,[],"['Mexican', 'Spanish']",False,114,4,NA,NA,NA,NA,21,6,9,4,1,0
+Pollo Express,https://www.tripadvisor.com/Restaurant_Review-g35805-d2375056-Reviews-Pollo_Express-Chicago_Illinois.html,0,[],"['Latin', 'Spanish']",False,123,5,NA,NA,NA,NA,10,9,1,0,0,0
+Taqueria Casa Del Pueblo,https://www.tripadvisor.com/Restaurant_Review-g35805-d428906-Reviews-Taqueria_Casa_Del_Pueblo-Chicago_Illinois.html,1,[],"['Mexican', 'Latin', 'Spanish']",False,131,4,NA,NA,NA,NA,19,9,6,1,0,2
+May St. Cafe,https://www.tripadvisor.com/Restaurant_Review-g35805-d819630-Reviews-May_St_Cafe-Chicago_Illinois.html,2.5,"[20, 40]","['Latin', 'Spanish']",False,119,4,4.5,4.0,4.0,4.0,19,11,5,0,2,1
+DeColores,https://www.tripadvisor.com/Restaurant_Review-g35805-d2136257-Reviews-DeColores-Chicago_Illinois.html,2.5,"[29, 31]","['Mexican', 'Southwestern', 'Spanish']",True,1,4,3.5,3.5,3.5,3.5,15,6,5,2,1,1
+Hony Tonk BBQ,https://www.tripadvisor.com/Restaurant_Review-g35805-d1931341-Reviews-Hony_Tonk_BBQ-Chicago_Illinois.html,2.5,[],['Barbecue'],False,57,4,NA,NA,NA,NA,10,5,3,1,1,0
+La Vaca Margarita Bar,https://www.tripadvisor.com/Restaurant_Review-g35805-d12898102-Reviews-La_Vaca_Margarita_Bar-Chicago_Illinois.html,2.5,[],"['Mexican', 'Bar', 'Pub']",False,361,3,NA,NA,NA,NA,16,4,6,2,0,4

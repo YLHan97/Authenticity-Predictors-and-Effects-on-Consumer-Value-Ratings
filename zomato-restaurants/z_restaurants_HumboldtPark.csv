@@ -1,0 +1,4 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Jimmy's Red Hots,Jimmy's Red Hots,https://www.zomato.com/chicago/jimmys-red-hots-humboldt-park-garfield-park,3.9,['Fast Food'],7.5,18,"4000 W. Grand Avenue, Chicago 60651"
+Roeser's Bakery,Roeser's Bakery,https://www.zomato.com/chicago/roesers-bakery-humboldt-park-garfield-park,3.3,"['Bakery', 'Donuts']",5.0,6,3216 West North Avenue 60647
+La Palma Puerto Rican Restaurant,La Palma,https://www.zomato.com/chicago/la-palma-humboldt-park-garfield-park,3.0,['Mexican'],12.5,5,"1340 N. Homan Avenue, Chicago 60651"

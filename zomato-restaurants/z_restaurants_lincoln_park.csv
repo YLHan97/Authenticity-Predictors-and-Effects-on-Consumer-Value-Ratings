@@ -1,0 +1,116 @@
+trip_res_name,restaurant_name,link,avg_rating,category,avgerage_cost,review_count,location
+Molly's Cupcakes,Molly's Cupcakes,https://www.zomato.com/chicago/mollys-cupcakes-lincoln-park,4.6,"['Desserts', 'Bakery']",7.5,208,2536 N Clark Street 60614
+Boka Restaurant,Boka,https://www.zomato.com/chicago/boka-lincoln-park,4.4,['American'],65.0,104,1729 North Halsted Street 60614
+Nookies Wells,Nookies,https://www.zomato.com/chicago/nookies-lincoln-park,4.0,['American'],20.0,112,1746 N. Wells Street 60614
+Sapori Trattoria,Sapori Trattoria,https://www.zomato.com/chicago/sapori-trattoria-lincoln-park,4.2,['Italian'],32.5,100,"2701 North Halsted Street, Lincoln Park Lakeview 60614"
+Cafe Ba-Ba-Reeba!,Cafe Ba-Ba-Reeba!,https://www.zomato.com/chicago/cafe-ba-ba-reeba-1-lincoln-park,4.3,"['Spanish', 'Tapas']",27.5,766,"2024 North Halsted Street, Lincoln Park 60614"
+Chicago Pizza & Oven Grinder,Chicago Pizza & Oven Grinder Company,https://www.zomato.com/chicago/chicago-pizza-oven-grinder-company-lincoln-park,4.6,"['Italian', 'Pizza', 'Sandwich']",32.5,436,2121 N Clark Street 60614
+Mon Ami Gabi,Mon Ami Gabi,https://www.zomato.com/chicago/mon-ami-gabi-lincoln-park,4.3,['French'],37.5,114,"2300 North Lincoln Park West, Lincoln Park West 60614"
+Twin Anchors Restaurant & Tavern,Twin Anchors Restaurant & Tavern,https://www.zomato.com/chicago/twin-anchors-restaurant-tavern-lincoln-park,4.4,"['American', 'BBQ']",25.0,227,"1655 North Sedgwick Street, Old Town 60614"
+riccardo trattoria,Riccardo Trattoria,https://www.zomato.com/chicago/riccardo-trattoria-lincoln-park,4.0,"['Italian', 'Seafood']",37.5,57,2119 North Clark Street 60614
+Lou Malnati's Pizzeria,Lou Malnati's Pizzeria,https://www.zomato.com/chicago/lou-malnatis-pizzeria-lincoln-park,4.3,['Pizza'],20.0,174,958 W Wrightwood Avenue 60614
+The Pasta Bowl,Pasta Bowl,https://www.zomato.com/chicago/pasta-bowl-lincoln-park,4.2,['Italian'],12.5,63,2434 N Clark Street 60614
+R.J. Grunts,RJ Grunts,https://www.zomato.com/chicago/rj-grunts-lincoln-park,4.2,"['American', 'Burger']",37.5,162,"2056 North Lincoln Park West, Lincoln Park 60614"
+Goose Island Brewhouse,Goose Island Brewpub,https://www.zomato.com/chicago/goose-island-brewpub-lincoln-park,4.3,['Bar Food'],22.5,174,1800 N Clybourn Avenue 60614
+North Pond,North Pond,https://www.zomato.com/chicago/north-pond-lincoln-park,4.1,['American'],130.0,99,2610 N. Cannon Drive 60614
+Butcher & The Burger,Butcher & The Burger,https://www.zomato.com/chicago/butcher-the-burger-lincoln-park,4.0,['Burger'],17.5,68,1021 West Armitage Avenue 60614
+The J. Parker,The J. Parker - Hotel Lincoln,https://www.zomato.com/chicago/the-j-parker-hotel-lincoln-lincoln-park,3.9,['Bar Food'],40.0,26,"1816 N Clark Street, 13th Floor 60614"
+Del Seoul,Del Seoul,https://www.zomato.com/chicago/del-seoul-lincoln-park,4.5,"['Asian', 'Fusion']",15.0,114,2568 N Clark Street 60614
+Basil Leaf Cafe,Basil Leaf Cafe,https://www.zomato.com/chicago/basil-leaf-cafe-lincoln-park,3.9,"['Italian', 'Sandwich']",37.5,50,2465 N. Clark Street 60614
+Elaine's Coffee Call,Elaine's Coffee Call,https://www.zomato.com/chicago/elaines-coffee-call-lincoln-park,3.5,['Coffee and Tea'],12.5,7,"Hotel Lincoln, 1816 N. Clark Street, Chicago 60614"
+CHEZ MOI,Chez Moi,https://www.zomato.com/chicago/chez-moi-lincoln-park,3.9,['French'],42.5,12,2100 N Halsted Street 60614
+Pasta Palazzo,Pasta Palazzo,https://www.zomato.com/chicago/pasta-palazzo-lincoln-park,4.0,['Italian'],17.5,63,1966 N. Halsted Street 60614
+Vinci Restaurant,Vinci,https://www.zomato.com/chicago/vinci-lincoln-park,4.0,['Italian'],30.0,42,1732 N Halsted Street 60614
+Homeslice Wheel House,Homeslice,https://www.zomato.com/chicago/homeslice-lincoln-park,3.6,"['Pizza', 'American']",22.5,30,938 W Webster Avenue 60614
+The Wiener's Circle,The Wiener's Circle,https://www.zomato.com/chicago/the-wieners-circle-lincoln-park,4.2,"['Fast Food', 'American']",7.5,192,"2622 N Clark Street, Chicago 60614"
+Kingston Mines,Kingston Mines,https://www.zomato.com/chicago/kingston-mines-lincoln-park,3.9,['Bar Food'],NA,35,2548 N Halsted Street 60614
+Vanille Patisserie,Vanille Patisserie,https://www.zomato.com/chicago/vanille-patisserie-1-lincoln-park,3.9,"['Patisserie', 'Desserts']",7.5,23,"2108 N. Clark Street, Chicago 60614"
+Red Lion Pub,Red Lion Pub,https://www.zomato.com/chicago/red-lion-pub-lincoln-park,2.9,['British'],20.0,10,"2446 N. Lincoln Avenue, Chicago 60614"
+Sweet Mandy B's,Sweet Mandy B's,https://www.zomato.com/chicago/sweet-mandy-bs-lincoln-park,4.4,"['Desserts', 'Bakery']",10.0,149,1208 W. Webster Avenue 60614
+Trattoria Gianni,Trattoria Gianni,https://www.zomato.com/chicago/trattoria-gianni-lincoln-park,3.9,['Italian'],30.0,23,1711 N Halsted Street 60614
+Blue Door Farm Stand,Blue Door Farm Stand,https://www.zomato.com/chicago/blue-door-farm-stand-lincoln-park,3.5,"['Sandwich', 'Healthy Food']",20.0,9,711 West Armitage 60614
+The Galway Arms,Galway Arms,https://www.zomato.com/chicago/galway-arms-lincoln-park,3.6,"['American', 'Irish', 'Pub Food']",17.5,28,"2442 N. Clark Street, Chicago 60614"
+Frances' Deli and Brunchery,Frances' Restaurant & Deli,https://www.zomato.com/chicago/frances-restaurant-deli-lincoln-park,3.7,['American'],12.5,28,2552 N. Clark Street 60614
+Riccardo Enoteca,Riccardo Enoteca,https://www.zomato.com/chicago/riccardo-enoteca-lincoln-park,2.8,"['Italian', 'Pizza']",30.0,7,2116 North Clark Street 60614
+Bacino's Pizzeria,Bacino's,https://www.zomato.com/chicago/bacinos-lincoln-park,4.0,"['Italian', 'Pizza']",20.0,43,2204 N Lincoln Avenue 60614
+Paddy Long's Beer & Bacon Pub,Paddy Long's Beer & Bacon Pub,https://www.zomato.com/chicago/paddy-longs-beer-bacon-pub-lakeview,3.9,"['American', 'Burger', 'Sandwich']",25.0,29,"1028 W. Diversey Parkway, Chicago 60614"
+Athenian Room,Athenian Room,https://www.zomato.com/chicago/athenian-room-lincoln-park,4.5,['Greek'],22.5,125,807 West Webster Avenue 60614
+Juno,Juno,https://www.zomato.com/chicago/juno-lincoln-park,3.5,"['Japanese', 'Sushi']",75.0,11,2638 N Lincoln Avenue 60614
+Range Restaurant,Range,https://www.zomato.com/chicago/range-lincoln-park,3.7,['New American'],25.0,16,1119 W Webster Avenue 60614
+Pars Cove Restaurant,Pars Cove,https://www.zomato.com/chicago/pars-cove-lincoln-park,3.8,"['Middle Eastern', 'Mediterranean']",25.0,16,"435 W. Diversey Parkway, Chicago 60614"
+Floriole Bakery,Floriole Cafe & Bakery,https://www.zomato.com/chicago/floriole-cafe-bakery-lincoln-park,4.2,"['French', 'Cafe', 'Bakery']",15.0,45,1220 West Webster Avenue 60614
+Toro Sushi,Toro Sushi,https://www.zomato.com/chicago/toro-sushi-lincoln-park,4.3,"['Japanese', 'Sushi']",20.0,110,"2546 N Clark Street, Chicago 60614"
+Yolk - Lakeview,Yolk,https://www.zomato.com/chicago/yolk-lincoln-park,3.2,['American'],17.5,4,501 W. Diversey Parkway 60614
+Lakefront Restaurant,Eleven Lincoln Park,https://www.zomato.com/chicago/eleven-lincoln-park-lincoln-park,3.5,['American'],20.0,11,2301 N Clark Street 60610
+Pat's Pizza,Pat's Pizzeria,https://www.zomato.com/chicago/pats-pizzeria-lincoln-park,3.9,"['Pizza', 'Italian']",15.0,28,"2679 N. Lincoln Avenue, Chicago 60614"
+Jam and Honey,Jam 'n Honey,https://www.zomato.com/chicago/jam-n-honey-lincoln-park,3.6,['American'],22.5,48,958 W Webster Avenue 60614
+Chicagos Dog House,Chicago's Dog House,https://www.zomato.com/chicago/chicagos-dog-house-lincoln-park,3.9,"['Fast Food', 'American']",7.5,40,816 W Fullerton Avenue 60614
+Sai Cafe,Sai Cafe,https://www.zomato.com/chicago/sai-cafe-lincoln-park,4.1,"['Japanese', 'Sushi']",25.0,59,2010 North. Sheffield 60614
+Nookies Too,Nookies Too,https://www.zomato.com/chicago/nookies-too-lincoln-park,3.7,['American'],20.0,70,2114 N. Halsted Street 60614
+Green Tea,Greentea Japanese Restaurant,https://www.zomato.com/chicago/greentea-japanese-restaurant-lincoln-park,3.9,"['Asian', 'Japanese', 'Sushi']",20.0,34,2206 N. Clark Street 60614
+Sultan's Market,Sultans Market,https://www.zomato.com/chicago/sultans-market-lincoln-park,3.9,['Middle Eastern'],12.5,20,"2521 North Clark Street, Lincoln Park 60614"
+Corcoran's Grill and Pub,Corcoran's Grill & Pub,https://www.zomato.com/chicago/corcorans-grill-pub-lincoln-park,2.5,"['American', 'British']",22.5,25,1615 North Wells Street 60614
+Noodles In The Pot,Noodles in the Pot,https://www.zomato.com/chicago/noodles-in-the-pot-lincoln-park,4.2,['Thai'],15.0,49,2453 N. Halsted Street 60614
+Aloha Eats,Aloha Eats,https://www.zomato.com/chicago/aloha-eats-lincoln-park,4.1,"['BBQ', 'Burger', 'Hawaiian']",12.5,65,2534 N. Clark Street 60614
+Macku Sushi,Macku Sushi,https://www.zomato.com/chicago/macku-sushi-lincoln-park,3.8,"['Japanese', 'Sushi']",27.5,31,2239 N Clybourn Avenue 60614
+Ranalli's,Ranalli's,https://www.zomato.com/chicago/ranallis-1-lincoln-park,3.5,"['Italian', 'Pizza']",22.5,10,"1925 North Lincoln Avenue, Lincoln Park 60614"
+Prost!,Prost!,https://www.zomato.com/chicago/prost-lincoln-park,3.4,['German'],20.0,19,2566 N Lincoln Avenue 60614
+Wells on Wells,Wells On Wells,https://www.zomato.com/chicago/wells-on-wells-lincoln-park,3.6,"['American', 'Burger']",22.5,23,"1617 North Wells Street, Old Town 60614"
+Bourgeois Pig Cafe,Bourgeois Pig,https://www.zomato.com/chicago/bourgeois-pig-lincoln-park,4.3,"['Cafe', 'Sandwich']",15.0,92,738 W. Fullerton Avenue 60614
+Peet's Coffee & Tea,Peet's Coffee & Tea,https://www.zomato.com/chicago/peets-coffee-tea-lincoln-park,3.7,['Cafe'],7.5,15,"1000 W. North Avenue, Chicago 60622"
+State Restaurant & Cafe,State Restaurant,https://www.zomato.com/chicago/state-restaurant-lincoln-park,3.0,['American'],25.0,43,935 West Webster Avenue 60614
+Five Guys,Five Guys Burgers and Fries,https://www.zomato.com/chicago/five-guys-burgers-and-fries-1-lincoln-park,3.3,['Burger'],12.5,36,"2368 N Clark Street, Unit 1 60614"
+Cafe Vienna,Cafe Vienna,https://www.zomato.com/chicago/cafe-vienna-lincoln-park,2.9,"['Cafe', 'Desserts', 'European', 'Sandwich']",12.5,5,"2523 N. Clark Street, Chicago 60614"
+Local Option,Local Option,https://www.zomato.com/chicago/local-option-lincoln-park,2.7,"['Sandwich', 'Southern', 'Mexican']",20.0,20,"1102 W. Webster Avenue, Chicago 60614"
+Del Seoul Korean Barbeque,Del Seoul,https://www.zomato.com/chicago/del-seoul-lincoln-park,4.5,"['Asian', 'Fusion']",15.0,114,2568 N Clark Street 60614
+SaiMai Thai,SaiMai Thai,https://www.zomato.com/chicago/saimai-thai-lincoln-park,3.6,"['Seafood', 'Thai']",12.5,12,"338 West Armitage Avenue, Chicago 60614"
+Tarascas,Cocina Tarascas International,https://www.zomato.com/chicago/cocina-tarascas-international-lincoln-park,4.1,['Mexican'],17.5,47,2585 N. Clark Sreet 60614
+Dawali Mediterranean Kitchen,Dawali Mediterranean Kitchen,https://www.zomato.com/chicago/dawali-mediterranean-kitchen-lincoln-park,3.8,['Mediterranean'],20.0,16,1625 N Halsted Street 60614
+Chengdu Impression,Chengdu Impression,https://www.zomato.com/chicago/chengdu-impression-lincoln-park,3.0,"['Chinese', 'Japanese']",17.5,8,2545 N Halsted Street 60614
+Branko's Submarines,Branko's,https://www.zomato.com/chicago/brankos-lincoln-park,3.7,"['American', 'Fast Food']",12.5,18,"1118 W. Fullerton Avenue, Chicago 60614"
+CRIO,Crio,https://www.zomato.com/chicago/crio-lincoln-park,3.1,['Latin American'],22.5,8,"2506 N. Clybourn Avenue, Chicago 60614"
+Avli Taverna,Alinea,https://www.zomato.com/chicago/alinea-lincoln-park,4.9,['New American'],300.0,415,1723 N Halsted Street 60614
+Salvatore's Restaurant,Tarantino's,https://www.zomato.com/chicago/tarantinos-lincoln-park,3.9,"['Italian', 'Pizza']",37.5,25,"1112 West Armitage Avenue Chicago, IL 60614"
+Chicago Bagel Authority,Chicago Bagel Authority,https://www.zomato.com/chicago/chicago-bagel-authority-lincoln-park,4.3,"['American', 'Bagels', 'Sandwich']",10.0,74,"953 W. Armitage Avenue, Chicago 60614"
+The Patio at Cafe Brauer,The Patio at Cafe Brauer,https://www.zomato.com/chicago/the-patio-at-cafe-brauer-lincoln-park,3.0,"['American', 'Burger', 'Sandwich']",25.0,4,"2021 North Stockton Drive, Chicago 60614"
+Marge's Still,Marge's Still,https://www.zomato.com/chicago/marges-still-lincoln-park,3.5,['American'],27.5,14,1758 North Sedgwick Street 60614
+Barrelhouse Flat,The Barrelhouse Flat,https://www.zomato.com/chicago/the-barrelhouse-flat-lincoln-park,3.9,['Bar Food'],27.5,31,2624 N Lincoln Avenue 60614
+Lito's Empanadas,Lito's Empanadas,https://www.zomato.com/chicago/litos-empanadas-lincoln-park,3.9,['Latin American'],7.5,47,2566 N Clark Street 60614
+Johnny's Beef & Gyros - Lincoln Park,Johnny's Beef & Gyros,https://www.zomato.com/chicago/johnnys-beef-gyros-lincoln-park,3.6,"['Fast Food', 'Sandwich']",12.5,7,2300 North Lincoln Avenue 60614
+Sushi Para II  ,Sushi Para II,https://www.zomato.com/chicago/sushi-para-ii-lincoln-park,3.7,"['Japanese', 'Sushi']",22.5,56,2256 N Clark Street 60614
+The Bagelers Coffeehouse,The Bagelers Coffeehouse,https://www.zomato.com/chicago/the-bagelers-coffeehouse-lincoln-park,3.5,"['Cafe', 'Sandwich']",5.0,6,2461 N. Lincoln Avenue 60614
+Mayan Palace Mexican Cuisine,Mayan Palace,https://www.zomato.com/chicago/mayan-palace-lincoln-park,3.7,['Mexican'],22.5,27,"2703 N Halsted Street, Chicago 60614"
+Dee's Restaurant,Dee's Chinese Sushi Lounge,https://www.zomato.com/chicago/dees-chinese-sushi-lounge-lincoln-park,3.9,"['Asian', 'Chinese', 'Sushi']",25.0,21,1114 W. Armitage Avenue 60614
+Epic Burger,Epic Burger,https://www.zomato.com/chicago/epic-burger-lincoln-park,3.9,"['Burger', 'American']",12.5,21,"1000 W. North Avenue, Suite D101, Chicago 60642"
+Taco & Burrito Palace,Taco and Burrito Palace #2,https://www.zomato.com/chicago/taco-and-burrito-palace-2-lincoln-park,3.9,['Mexican'],12.5,28,2459 N. Halsted Street 60614
+The Dog Joint,The Dog Joint,https://www.zomato.com/chicago/the-dog-joint-lincoln-park,3.7,"['Fast Food', 'Burger', 'Sandwich']",12.5,16,"350 W. Armitage Avenue, Chicago 60614"
+Austrian Bakery,Austrian Bakery and Deli,https://www.zomato.com/chicago/austrian-bakery-and-deli-lincoln-park,3.9,"['Sandwich', 'Bakery']",12.5,40,"2523 N. Clark Street, Chicago 60614"
+1959 Kitchen & Bar,Burger Bar Chicago Lincoln Park,https://www.zomato.com/chicago/burger-bar-chicago-lincoln-park-lincoln-park,4.3,"['Burger', 'American']",17.5,87,"1578 North Clybourn Avenue, Lincoln Park 60642"
+Lincoln Station,Lincoln Station,https://www.zomato.com/chicago/lincoln-station-lincoln-park,3.6,"['American', 'Pizza', 'Burger']",15.0,13,"2432 North Lincoln Avenue, Lincoln Park 60614"
+Le Pain Quotidien,Le Pain Quotidien,https://www.zomato.com/chicago/le-pain-quotidien-lincoln-park,3.1,"['Cafe', 'French']",15.0,8,1000 West Armitage Avenue 60614
+Castaways,Goose Island Brewpub,https://www.zomato.com/chicago/goose-island-brewpub-lincoln-park,4.3,['Bar Food'],22.5,174,1800 N Clybourn Avenue 60614
+Insomnia Cookies,Insomnia Cookies,https://www.zomato.com/chicago/insomnia-cookies-lincoln-park,3.9,['Desserts'],7.5,16,2260 N Lincoln Avenue 60614
+The Other Side Bar,The Other Side Bar,https://www.zomato.com/chicago/other-side-bar-lincoln-park,3.7,"['Burger', 'Pizza', 'Sandwich']",12.5,12,"2436 N. Clark Street, Chicago 60614"
+Duffy's Tavern Grille,Duffy's Tavern and Grille,https://www.zomato.com/chicago/duffys-tavern-and-grille-lakeview,3.3,['Bar Food'],15.0,19,420 W. Diversey Parkway 60614
+Raj Darbar,Raj Darbar,https://www.zomato.com/chicago/raj-darbar-lincoln-park,3.4,"['Indian', 'Pakistani']",37.5,22,"2660 N Halsted Street, Chicago 60614"
+CityGrounds Coffee Bar,CityGrounds Coffee Bar,https://www.zomato.com/chicago/citygrounds-coffee-bar-lincoln-park,3.1,['Coffee and Tea'],12.5,7,507 W Dickens Avenue 60614
+Hema's Kitchen,Hema's Kitchen,https://www.zomato.com/chicago/hemas-kitchen-lincoln-park,3.9,"['Indian', 'Mediterranean']",15.0,31,"2411 N. Clark Street, Chicago 60614"
+Snow Dragon Shavery,Snow Dragon Shavery,https://www.zomato.com/chicago/snow-dragon-shavery-lincoln-park,3.5,['Frozen Yogurt'],7.5,5,"2618 North Clark Street Chicago, IL, Chicago 60614"
+House of Hunan,House of Hunan,https://www.zomato.com/chicago/house-of-hunan-lincoln-park,2.6,['Chinese'],17.5,16,"444 W. Fullerton Parkway, Chicago 60614"
+Sushi O Sushi,Sushi O Sushi,https://www.zomato.com/chicago/sushi-o-sushi-lincoln-park,3.2,"['Asian', 'Japanese', 'Sushi']",25.0,11,"346 W. Armitage Avenue, Chicago 60614"
+Shine Morida Restaurant,Shine Restaurant,https://www.zomato.com/chicago/shine-restaurant-lincoln-park,3.0,"['Asian', 'Fusion', 'Sushi']",20.0,39,756 West Webster 60614
+Bird's Nest,Bird's Nest,https://www.zomato.com/chicago/birds-nest-lincoln-park,3.6,"['Burger', 'Bar Food']",12.5,10,"2500 North Southport Avenue, Lincoln Park 60614"
+Mello's Carry Out,Mellos Carry Out,https://www.zomato.com/chicago/mellos-carry-out-lincoln-park,3.0,"['American', 'Burger', 'Greek']",12.5,7,"2100 N. Clark Street, Lincoln Park, Chicago 60614"
+Rock Wrap & Roll,Rock Wrap & Roll,https://www.zomato.com/chicago/rock-wrap-roll-lincoln-park,3.3,"['Sushi', 'Thai']",17.5,9,2187 N. Clybourn Avenue 60614
+Compass Bar,Compass Bar,https://www.zomato.com/chicago/compass-bar-lincoln-park,2.8,"['Pizza', 'American']",22.5,5,"433 W. Diversey Parkway, Lincoln Park, Chicago 60614"
+Shine,Shine Restaurant,https://www.zomato.com/chicago/shine-restaurant-lincoln-park,3.0,"['Asian', 'Fusion', 'Sushi']",20.0,39,756 West Webster 60614
+Ringo,Ringo Japanese Kitchen,https://www.zomato.com/chicago/ringo-japanese-kitchen-lincoln-park,3.9,"['Japanese', 'Sushi', 'Asian']",20.0,31,"2507 N Lincoln Avenue, Chicago 60614"
+Clarke's Pancake House,The Original Pancake House,https://www.zomato.com/chicago/the-original-pancake-house-lincoln-park,3.9,['American'],17.5,27,"2020 N. Lincoln Park West, Chicago 60614"
+McGee's,McGee's Tavern,https://www.zomato.com/chicago/mcgees-tavern-lincoln-park,2.1,['Bar Food'],15.0,17,"950 W. Webster Avenue, Chicago 60614"
+Sedgwick's Bar & Grill,Sedgwick's Bar & Grill,https://www.zomato.com/chicago/sedgwicks-bar-grill-lincoln-park,2.6,"['American', 'Bar Food']",15.0,12,"1935 N Sedgwick Street, Chicago 60614"
+Ranalli's on Clark,Ranalli's,https://www.zomato.com/chicago/ranallis-1-lincoln-park,3.5,"['Italian', 'Pizza']",22.5,10,"1925 North Lincoln Avenue, Lincoln Park 60614"
+Cafe Luigi,Cafe Luigi,https://www.zomato.com/chicago/cafe-luigi-lincoln-park,2.6,"['Italian', 'Pizza']",15.0,13,2548 N Clark Street 60614
+El Presidente Restaurante,El Presidente,https://www.zomato.com/chicago/el-presidente-lincoln-park,3.1,['Mexican'],12.5,19,2558 N Ashland Avenue 60614
+Angela's Burrito Style,Angela's Burrito Style,https://www.zomato.com/chicago/angelas-burrito-style-lincoln-park,3.9,['Mexican'],12.5,17,"2556 N. Clark Street, Chicago 60614"
+Kincade's Bar & Grill,Kincade's Bar & Grill,https://www.zomato.com/chicago/kincades-bar-grill-lincoln-park,3.4,"['American', 'Bar Food']",15.0,4,"950 West Armitage Avenue, Lincoln Park 60614"
+Monkey's Paw,The Monkey's Paw,https://www.zomato.com/chicago/the-monkeys-paw-lincoln-park,3.6,['New American'],25.0,10,2524 N Southport Avenue 60614

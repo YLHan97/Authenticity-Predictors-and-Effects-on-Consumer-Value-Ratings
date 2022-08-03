@@ -1,0 +1,16 @@
+restaurant_name,link,price_class,price_range,category,michelin,ranking,avg_rating,food_rating,service_rating,value_rating,atmosphere_rating,review_count,rate5_count,rate4_count,rate3_count,rate2_count,rate1_count
+Bryn Mawr Breakfast Club,https://www.tripadvisor.com/Restaurant_Review-g35805-d8459765-Reviews-Bryn_Mawr_Breakfast_Club-Chicago_Illinois.html,2.5,[],"['American', 'Cafe', 'Vegetarian Friendly']",False,363,4,NA,NA,NA,NA,67,46,15,6,0,0
+Tre Kronor,https://www.tripadvisor.com/Restaurant_Review-g35805-d427314-Reviews-Tre_Kronor-Chicago_Illinois.html,2.5,[],"['European', 'Swedish', 'Scandinavian']",False,19,4,4.5,4.5,4.5,4.5,142,83,37,9,2,5
+Via Veneto Ristorante,https://www.tripadvisor.com/Restaurant_Review-g35805-d431756-Reviews-Via_Veneto_Ristorante-Chicago_Illinois.html,2.5,"[30, 30]","['Italian', 'Vegetarian Friendly']",False,195,4,4.5,5.0,4.5,4.5,47,22,17,5,0,2
+Hoanh Long Vietnamese & Chinese Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35805-d2370883-Reviews-Hoanh_Long_Vietnamese_Chinese_Restaurant-Chicago_Illinois.html,1,[],"['Chinese', 'Asian', 'Vietnamese']",False,53,4,4.5,4.0,4.5,4.5,22,9,11,2,0,0
+Martino's,https://www.tripadvisor.com/Restaurant_Review-g35805-d868772-Reviews-Martino_s-Chicago_Illinois.html,2.5,[],"['Italian', 'Pizza', 'Vegetarian Friendly']",False,1,4,NA,NA,NA,NA,20,10,6,4,0,0
+Charcoal Delights,https://www.tripadvisor.com/Restaurant_Review-g35805-d1189561-Reviews-Charcoal_Delights-Chicago_Illinois.html,1,"[5, 10]","['Quick Bites', 'Fast Food']",False,308,4,NA,NA,NA,NA,19,9,6,3,0,1
+Mee Mah,https://www.tripadvisor.com/Restaurant_Review-g35805-d526441-Reviews-Mee_Mah-Chicago_Illinois.html,2.5,[],"['Chinese', 'Asian', 'Cantonese']",False,1,4,4.0,4.5,4.0,4.0,22,9,7,4,1,1
+Midori Japanese Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35805-d431766-Reviews-Midori_Japanese_Restaurant-Chicago_Illinois.html,2.5,[],"['Japanese', 'Sushi', 'Asian']",False,91,4,4.5,4.0,4.0,4.0,22,14,3,4,0,1
+Evita Argentinian Steakhouse,https://www.tripadvisor.com/Restaurant_Review-g35805-d11881292-Reviews-Evita_Argentinian_Steakhouse-Chicago_Illinois.html,4,[],"['Steakhouse', 'Argentinean', 'Kosher']",False,58,4,NA,NA,NA,NA,21,9,5,3,3,1
+Little Quiapo Restaurant,https://www.tripadvisor.com/Restaurant_Review-g35805-d533282-Reviews-Little_Quiapo_Restaurant-Chicago_Illinois.html,2.5,[],"['Filipino', 'Asian']",False,8,3,4.0,4.0,4.0,4.0,32,8,10,11,2,1
+Pho 5lua,https://www.tripadvisor.com/Restaurant_Review-g35805-d8485406-Reviews-Pho_5lua-Chicago_Illinois.html,1,[],"['Asian', 'Vietnamese', 'Soups']",False,339,3,NA,NA,NA,NA,13,2,5,5,1,0
+Bacolod Chicken Haus,https://www.tripadvisor.com/Restaurant_Review-g35805-d4584741-Reviews-Bacolod_Chicken_Haus-Chicago_Illinois.html,2.5,[],"['Filipino', 'Asian']",False,2,3,NA,NA,NA,NA,18,5,7,2,3,1
+Panera Bread,https://www.tripadvisor.com/Restaurant_Review-g35805-d6538881-Reviews-Panera_Bread-Chicago_Illinois.html,2.5,[],[],False,2,4,NA,NA,NA,NA,10,3,6,0,1,0
+McDonald's,https://www.tripadvisor.com/Restaurant_Review-g35805-d4203916-Reviews-McDonald_s-Chicago_Illinois.html,1,[],"['Quick Bites', 'Fast Food']",False,437,3,NA,NA,NA,NA,12,2,2,7,0,1
+May Flower,https://www.tripadvisor.com/Restaurant_Review-g35805-d8834629-Reviews-May_Flower-Chicago_Illinois.html,1,[],"['Chinese', 'Cantonese']",False,4,4,NA,NA,NA,NA,10,0,9,0,1,0
